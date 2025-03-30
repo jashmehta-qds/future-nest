@@ -1,0 +1,626 @@
+uid,reported_date,victim_last,victim_first,victim_race,victim_age,victim_sex,city,state,lat,lon,disposition,ZIP
+NY-000358,20170129,Unknown,Unknown,Asian,33,Male,New York,NY,40.74772968,-73.98683929,Closed by arrest,10001
+NY-000294,20161107,Unknown,Unknown,Asian,49,Female,New York,NY,40.7535327,-73.99453689,Closed by arrest,10001
+NY-000418,20170425,Unknown,Unknown,Black,59,Female,New York,NY,40.74693428,-73.99358827,Closed by arrest,10001
+NY-000168,20160705,Unknown,Unknown,Hispanic,70,Female,New York,NY,40.71321126,-73.98388102,Closed by arrest,10002
+NY-000119,20160525,Unknown,Unknown,Black,33,Male,New York,NY,40.73498319,-73.98805421,Closed by arrest,10003
+NY-000095,20160429,Unknown,Unknown,Hispanic,70,Male,New York,NY,40.7256977,-73.98823988,Open/No arrest,10003
+NY-000582,20171101,Unknown,Unknown,White,56,Female,New York,NY,40.72881866,-73.9900722,Closed by arrest,10003
+NY-000070,20160401,Unknown,Unknown,White,70,Male,New York,NY,40.72598064,-73.99080141,Closed by arrest,10003
+NY-000372,20170215,Unknown,Unknown,White,43,Male,New York,NY,40.71627259,-74.00688785,Open/No arrest,10007
+NY-000266,20160930,Unknown,Unknown,Black,82,Female,New York,NY,40.72045033,-73.97491448,Closed by arrest,10009
+NY-000079,20160414,Unknown,Unknown,Black,23,Male,New York,NY,40.72760651,-73.97781979,Closed by arrest,10009
+NY-000130,20160603,Unknown,Unknown,Hispanic,21,Male,New York,NY,40.72227316,-73.97634243,Closed by arrest,10009
+NY-000340,20170104,Unknown,Unknown,Hispanic,28,Female,New York,NY,40.72033577,-73.97847518,Closed by arrest,10009
+NY-000584,20171103,Unknown,Unknown,Black,23,Male,New York,NY,40.72399675,-73.97581508,Closed by arrest,10009
+NY-000495,20170715,Unknown,Unknown,Black,32,Female,New York,NY,40.73611028,-73.98065317,Closed by arrest,10010
+NY-000579,20171031,Unknown,Unknown,White,31,Female,New York,NY,40.72905464,-74.0107245,Closed by arrest,10014
+NY-000578,20171031,Unknown,Unknown,White,32,Male,New York,NY,40.72905464,-74.0107245,Closed by arrest,10014
+NY-000574,20171031,Unknown,Unknown,Hispanic,48,Male,New York,NY,40.72905464,-74.0107245,Closed by arrest,10014
+NY-000573,20171031,Unknown,Unknown,Hispanic,47,Male,New York,NY,40.72905464,-74.0107245,Closed by arrest,10014
+NY-000572,20171031,Unknown,Unknown,Hispanic,47,Male,New York,NY,40.72905464,-74.0107245,Closed by arrest,10014
+NY-000571,20171031,Unknown,Unknown,Hispanic,47,Male,New York,NY,40.72905464,-74.0107245,Closed by arrest,10014
+NY-000577,20171031,Unknown,Unknown,White,23,Male,New York,NY,40.72905464,-74.0107245,Closed by arrest,10014
+NY-000575,20171031,Unknown,Unknown,Hispanic,48,Male,New York,NY,40.72905464,-74.0107245,Closed by arrest,10014
+NY-000569,20171029,Unknown,Unknown,Black,38,Female,New York,NY,40.74016078,-73.97657424,Closed by arrest,10016
+NY-000080,20160415,Unknown,Unknown,Hispanic,56,Male,New York,NY,40.74082451,-73.97426086,Closed by arrest,10016
+NY-000625,20171227,Unknown,Unknown,White,74,Male,New York,NY,40.75491564,-73.97247597,Open/No arrest,10017
+NY-000510,20170802,Unknown,Unknown,Black,55,Male,New York,NY,40.75176222,-73.97373329,Closed by arrest,10017
+NY-000325,20161217,Unknown,Unknown,Black,27,Male,New York,NY,40.75387492,-73.98482044,Closed by arrest,10018
+NY-000395,20170320,Unknown,Unknown,Black,66,Male,New York,NY,40.75438087,-73.99558716,Closed by arrest,10018
+NY-000617,20171219,Unknown,Unknown,Hispanic,27,Male,New York,NY,40.76015753,-73.98395268,Closed by arrest,10019
+NY-000297,20161113,Unknown,Unknown,White,26,Male,New York,NY,40.75915016,-73.96084391,Closed by arrest,10022
+NY-000419,20170427,Unknown,Unknown,Hispanic,24,Male,New York,NY,40.78859715,-73.97611663,Open/No arrest,10024
+NY-000341,20170104,Unknown,Unknown,White,56,Male,New York,NY,40.78386245,-73.97595222,Closed by arrest,10024
+NY-000552,20171005,Unknown,Unknown,White,37,Male,New York,NY,40.78450737,-73.97548256,Closed without arrest,10024
+NY-000344,20170110,Unknown,Unknown,White,59,Male,New York,NY,40.78245186,-73.96587827,Closed by arrest,10024
+NY-000276,20161006,Unknown,Unknown,Hispanic,63,Male,New York,NY,40.79828523,-73.96267373,Closed by arrest,10025
+NY-000613,20171216,Unknown,Unknown,Hispanic,48,Male,New York,NY,40.80118051,-73.9614585,Open/No arrest,10025
+NY-000169,20160705,Unknown,Unknown,Black,38,Female,New York,NY,40.80106379,-73.95048191,Closed by arrest,10026
+NY-000058,20160316,Unknown,Unknown,Black,53,Male,New York,NY,40.80262031,-73.95108757,Closed by arrest,10026
+NY-000431,20170515,Unknown,Unknown,Black,38,Male,New York,NY,40.79861625,-73.95227519,Closed by arrest,10026
+NY-000550,20170930,Unknown,Unknown,Black,18,Male,New York,NY,40.80106379,-73.95048191,Open/No arrest,10026
+NY-000538,20170920,Unknown,Unknown,Black,58,Male,New York,NY,40.798964,-73.95031372,Open/No arrest,10026
+NY-000324,20161214,Unknown,Unknown,Black,32,Male,New York,NY,40.8094132,-73.94436716,Open/No arrest,10027
+NY-000355,20170125,Unknown,Unknown,Black,22,Male,New York,NY,40.80713887,-73.95288316,Closed by arrest,10027
+NY-000429,20170512,Unknown,Unknown,Unknown,44,Male,New York,NY,40.8127971,-73.9436635,Closed by arrest,10027
+NY-000481,20170707,Unknown,Unknown,Black,25,Male,New York,NY,40.81721773,-73.95347214,Closed by arrest,10027
+NY-000067,20160325,Unknown,Unknown,Hispanic,16,Male,New York,NY,40.79634124,-73.94119982,Open/No arrest,10029
+NY-000428,20170509,Unknown,Unknown,Black,24,Female,New York,NY,40.79189233,-73.94751653,Closed by arrest,10029
+NY-000318,20161209,Unknown,Unknown,Hispanic,24,Female,New York,NY,40.79908632,-73.94761921,Closed by arrest,10029
+NY-000356,20170126,Unknown,Unknown,Hispanic,3,Male,New York,NY,40.79409373,-73.93681016,Open/No arrest,10029
+NY-000307,20161127,Unknown,Unknown,Black,74,Male,New York,NY,40.79032505,-73.94171072,Open/No arrest,10029
+NY-000611,20171214,Unknown,Unknown,Black,49,Male,New York,NY,40.79829308,-73.94186988,Closed by arrest,10029
+NY-000534,20170913,Unknown,Unknown,Hispanic,17,Male,New York,NY,40.79547627,-73.94604377,Open/No arrest,10029
+NY-000255,20160923,Unknown,Unknown,Black,21,Male,New York,NY,40.81971866,-73.9423895,Closed by arrest,10030
+NY-000033,20160213,Unknown,Unknown,Black,22,Male,New York,NY,40.81750346,-73.94197594,Closed by arrest,10030
+NY-000392,20170316,Unknown,Unknown,Black,30,Male,New York,NY,40.8209268,-73.94332422,Open/No arrest,10030
+NY-000533,20170910,Unknown,Unknown,Hispanic,53,Female,New York,NY,40.81999118,-73.94400425,Closed without arrest,10030
+NY-000155,20160623,Unknown,Unknown,Black,46,Male,New York,NY,40.81725838,-73.94040458,Open/No arrest,10030
+NY-000378,20170225,Unknown,Unknown,Hispanic,24,Female,New York,NY,40.83211111,-73.94829425,Closed by arrest,10031
+NY-000241,20160905,Unknown,Unknown,Black,19,Male,New York,NY,40.82294535,-73.95198314,Open/No arrest,10031
+NY-000331,20161226,Unknown,Unknown,Hispanic,36,Female,New York,NY,40.83211111,-73.94829425,Closed by arrest,10031
+NY-000258,20160926,Unknown,Unknown,Black,6,Male,New York,NY,40.82066349,-73.95638541,Closed by arrest,10031
+NY-000332,20161226,Unknown,Unknown,Hispanic,4,Male,New York,NY,40.83211111,-73.94829425,Closed by arrest,10031
+NY-000081,20160415,Unknown,Unknown,Black,41,Male,New York,NY,40.83345098,-73.94340751,Closed by arrest,10032
+NY-000273,20161003,Unknown,Unknown,Black,36,Male,New York,NY,40.84078386,-73.93625261,Closed by arrest,10032
+NY-000603,20171203,Unknown,Unknown,Hispanic,27,Male,New York,NY,40.84620036,-73.93845219,Open/No arrest,10033
+NY-000085,20160418,Unknown,Unknown,Hispanic,19,Male,New York,NY,40.84768881,-73.93493033,Closed by arrest,10033
+NY-000568,20171029,Unknown,Unknown,Hispanic,43,Male,New York,NY,40.84819452,-73.9361696,Closed by arrest,10033
+NY-000387,20170312,Unknown,Unknown,Black,27,Male,New York,NY,40.85111164,-73.93525591,Open/No arrest,10033
+NY-000049,20160309,Unknown,Unknown,White,57,Male,New York,NY,40.85111164,-73.93525591,Closed by arrest,10033
+NY-000308,20161128,Unknown,Unknown,Black,22,Female,New York,NY,40.84977622,-73.93752717,Closed without arrest,10033
+NY-000434,20170518,Unknown,Unknown,Hispanic,69,Male,New York,NY,40.86628597,-73.92030562,Closed by arrest,10034
+NY-000048,20160309,Unknown,Unknown,Hispanic,38,Male,New York,NY,40.86092832,-73.92030843,Open/No arrest,10034
+NY-000374,20170217,Unknown,Unknown,Black,40,Male,New York,NY,40.80111356,-73.9346869,Closed by arrest,10035
+NY-000022,20160127,Unknown,Unknown,White,62,Male,New York,NY,40.80339359,-73.93814501,Closed without arrest,10035
+NY-000327,20161219,Unknown,Unknown,Black,22,Male,New York,NY,40.8066179,-73.93676576,Closed by arrest,10035
+NY-000083,20160417,Unknown,Unknown,Hispanic,21,Male,New York,NY,40.80139239,-73.93271089,Closed by arrest,10035
+NY-000436,20170518,Unknown,Unknown,White,18,Female,New York,NY,40.75604354,-73.98694954,Closed by arrest,10036
+NY-000272,20161003,Unknown,Unknown,Black,39,Male,New York,NY,40.81052442,-73.93821425,Closed by arrest,10037
+NY-000224,20160820,Unknown,Unknown,Black,61,Female,New York,NY,40.81977881,-73.93672073,Open/No arrest,10037
+NY-000284,20161017,Unknown,Unknown,Black,18,Male,New York,NY,40.82226207,-73.9405374,Closed by arrest,10039
+NY-000539,20170922,Unknown,Unknown,Hispanic,46,Male,New York,NY,40.8210254,-73.93760474,Closed by arrest,10039
+NY-000238,20160903,Unknown,Unknown,Black,31,Male,New York,NY,40.83294176,-73.93543259,Open/No arrest,10039
+NY-000295,20161108,Unknown,Unknown,Black,38,Male,New York,NY,40.85894842,-73.92293173,Closed without arrest,10040
+NY-000565,20171024,Unknown,Unknown,Hispanic,63,Female,New York,NY,40.8633384,-73.92907629,Closed by arrest,10040
+NY-000059,20160316,Unknown,Unknown,White,78,Male,New York,NY,40.76640683,-73.96837742,Open/No arrest,10065
+NY-000076,20160412,Unknown,Unknown,Hispanic,22,Male,New York,NY,40.78389815,-73.95028524,Closed by arrest,10128
+NY-000203,20160804,Unknown,Unknown,Hispanic,30,Male,New York,NY,40.64173826,-74.07567804,Open/No arrest,10301
+NY-000131,20160603,Unknown,Unknown,Black,1,Female,New York,NY,40.64475482,-74.08724139,Open/No arrest,10301
+NY-000621,20171221,Unknown,Unknown,White,35,Female,New York,NY,40.62946103,-74.14431249,Closed by arrest,10302
+NY-000037,20160217,Unknown,Unknown,Black,54,Male,New York,NY,40.63674414,-74.13428297,Closed by arrest,10302
+NY-000065,20160324,Unknown,Unknown,Hispanic,47,Female,New York,NY,40.63348677,-74.16342719,Closed by arrest,10303
+NY-000600,20171202,Unknown,Unknown,Hispanic,40,Male,New York,NY,40.63898418,-74.17125231,Closed by arrest,10303
+NY-000401,20170331,Unknown,Unknown,Black,42,Male,New York,NY,40.63278455,-74.14682004,Closed by arrest,10303
+NY-000117,20160520,Unknown,Unknown,Black,26,Female,New York,NY,40.63833531,-74.16448397,Closed by arrest,10303
+NY-000064,20160324,Unknown,Unknown,Hispanic,21,Male,New York,NY,40.63348677,-74.16342719,Closed by arrest,10303
+NY-000470,20170630,Unknown,Unknown,Black,19,Male,New York,NY,40.61432989,-74.08582212,Closed by arrest,10304
+NY-000038,20160221,Unknown,Unknown,Hispanic,1,Male,New York,NY,40.60888342,-74.08315719,Closed by arrest,10304
+NY-000404,20170404,Unknown,Unknown,Black,27,Male,New York,NY,40.62384889,-74.08197986,Closed by arrest,10304
+NY-000305,20161126,Unknown,Unknown,Hispanic,58,Male,New York,NY,40.62106625,-74.08495545,Open/No arrest,10304
+NY-000333,20161226,Unknown,Unknown,Black,31,Male,New York,NY,40.62423677,-74.08075553,Closed by arrest,10304
+NY-000051,20160310,Unknown,Unknown,White,23,Female,New York,NY,40.59009184,-74.09468425,Closed by arrest,10304
+NY-000353,20170124,Unknown,Unknown,White,52,Male,New York,NY,40.58741588,-74.09770477,Closed by arrest,10305
+NY-000352,20170124,Unknown,Unknown,White,57,Male,New York,NY,40.58741588,-74.09770477,Closed by arrest,10305
+NY-000110,20160514,Unknown,Unknown,White,43,Female,New York,NY,40.5580167,-74.13041798,Closed without arrest,10306
+NY-000271,20161002,Unknown,Unknown,White,23,Male,New York,NY,40.56882764,-74.12118149,Closed by arrest,10306
+NY-000394,20170320,Unknown,Unknown,Hispanic,1,Female,New York,NY,40.575076,-74.09622,Closed by arrest,10306
+NY-000012,20160114,Unknown,Unknown,White,43,Male,New York,NY,40.54899139,-74.23027146,Closed by arrest,10309
+NY-000053,20160311,Unknown,Unknown,White,24,Male,New York,NY,40.52767521,-74.23021601,Closed by arrest,10309
+NY-000598,20171127,Unknown,Unknown,Asian,63,Female,New York,NY,40.63974215,-74.1132247,Closed by arrest,10310
+NY-000078,20160414,Unknown,Unknown,Black,21,Male,New York,NY,40.63681897,-74.11865313,Closed by arrest,10310
+NY-000548,20170930,Unknown,Unknown,Black,51,Male,New York,NY,40.63980693,-74.1143346,Open/No arrest,10310
+NY-000513,20170810,Unknown,Unknown,Hispanic,31,Male,New York,NY,40.63548426,-74.11669794,Open/No arrest,10310
+NY-000014,20160116,Unknown,Unknown,Hispanic,31,Male,New York,NY,40.60640475,-74.120479,Closed by arrest,10314
+NY-000029,20160210,Unknown,Unknown,Black,0,Female,New York,NY,40.60839181,-74.14661153,Closed by arrest,10314
+NY-000030,20160210,Unknown,Unknown,Black,1,Female,New York,NY,40.60839181,-74.14661153,Closed by arrest,10314
+NY-000567,20171028,Unknown,Unknown,Black,28,Male,New York,NY,40.62322682,-74.14922697,Open/No arrest,10314
+NY-000028,20160210,Unknown,Unknown,Black,26,Female,New York,NY,40.60839181,-74.14661153,Closed by arrest,10314
+NY-000043,20160304,Unknown,Unknown,Black,26,Male,New York,NY,40.60020591,-74.12150132,Closed by arrest,10314
+NY-000343,20170107,Unknown,Unknown,Asian,0,Male,New York,NY,40.58920029,-74.16281474,Closed by arrest,10314
+NY-000054,20160312,Unknown,Unknown,White,0,Female,New York,NY,40.58610441,-74.16263077,Closed by arrest,10314
+NY-000020,20160124,Unknown,Unknown,Hispanic,59,Female,New York,NY,40.81139312,-73.92231487,Closed by arrest,10451
+NY-000025,20160205,Unknown,Unknown,Hispanic,43,Male,New York,NY,40.82766862,-73.92543589,Closed by arrest,10451
+NY-000216,20160814,Unknown,Unknown,Hispanic,39,Male,New York,NY,40.81959698,-73.91818655,Closed by arrest,10451
+NY-000181,20160719,Unknown,Unknown,Hispanic,24,Male,New York,NY,40.81985636,-73.92014084,Open/No arrest,10451
+NY-000515,20170813,Unknown,Unknown,Hispanic,44,Male,New York,NY,40.82414426,-73.91717288,Closed by arrest,10451
+NY-000184,20160721,Unknown,Unknown,Hispanic,52,Female,New York,NY,40.83973953,-73.91317803,Closed by arrest,10452
+NY-000188,20160723,Unknown,Unknown,Black,18,Male,New York,NY,40.83157854,-73.92769723,Closed by arrest,10452
+NY-000622,20171226,Unknown,Unknown,Hispanic,16,Male,New York,NY,40.83797124,-73.915945,Closed by arrest,10452
+NY-000292,20161103,Unknown,Unknown,Hispanic,45,Female,New York,NY,40.82995237,-73.93005138,Closed by arrest,10452
+NY-000525,20170829,Unknown,Unknown,Hispanic,33,Female,New York,NY,40.83667571,-73.92379956,Open/No arrest,10452
+NY-000469,20170630,Unknown,Unknown,Asian,32,Male,New York,NY,40.84376219,-73.91174515,Closed without arrest,10452
+NY-000098,20160503,Unknown,Unknown,Black,70,Female,New York,NY,40.83667823,-73.91559609,Closed by arrest,10452
+NY-000283,20161015,Unknown,Unknown,Hispanic,19,Male,New York,NY,40.84194433,-73.91424856,Open/No arrest,10452
+NY-000414,20170416,Unknown,Unknown,Black,27,Male,New York,NY,40.84265427,-73.9129899,Closed by arrest,10452
+NY-000383,20170303,Unknown,Unknown,Hispanic,43,Female,New York,NY,40.82968589,-73.92115527,Closed by arrest,10452
+NY-000148,20160617,Unknown,Unknown,Black,17,Male,New York,NY,40.84727716,-73.91044291,Open/No arrest,10453
+NY-000476,20170705,Unknown,Unknown,Hispanic,48,Female,New York,NY,40.85810083,-73.90191494,Closed without arrest,10453
+NY-000483,20170708,Unknown,Unknown,Hispanic,56,Male,New York,NY,40.84586773,-73.91588803,Open/No arrest,10453
+NY-000437,20170520,Unknown,Unknown,Black,24,Male,New York,NY,40.84934125,-73.91792586,Closed by arrest,10453
+NY-000623,20171227,Unknown,Unknown,Hispanic,31,Male,New York,NY,40.84651086,-73.92099075,Open/No arrest,10453
+NY-000160,20160629,Unknown,Unknown,Black,24,Male,New York,NY,40.85066019,-73.90892021,Open/No arrest,10453
+NY-000608,20171211,Unknown,Unknown,Hispanic,61,Male,New York,NY,40.85407126,-73.90477658,Closed by arrest,10453
+NY-000222,20160819,Unknown,Unknown,Hispanic,27,Male,New York,NY,40.84711223,-73.91747681,Closed by arrest,10453
+NY-000104,20160509,Unknown,Unknown,Black,35,Male,New York,NY,40.85708206,-73.90135251,Open/No arrest,10453
+NY-000259,20160927,Unknown,Unknown,Hispanic,21,Male,New York,NY,40.85238191,-73.91351577,Open/No arrest,10453
+NY-000563,20171021,Unknown,Unknown,Black,36,Male,New York,NY,40.84932069,-73.91235948,Open/No arrest,10453
+NY-000250,20160914,Unknown,Unknown,Black,63,Male,New York,NY,40.8488871,-73.91614446,Open/No arrest,10453
+NY-000543,20170928,Unknown,Unknown,Hispanic,53,Male,New York,NY,40.85618332,-73.90314684,Open/No arrest,10453
+NY-000062,20160318,Unknown,Unknown,Black,29,Male,New York,NY,40.81144646,-73.91618441,Open/No arrest,10454
+NY-000285,20161023,Unknown,Unknown,Hispanic,28,Male,New York,NY,40.81269914,-73.92161974,Closed by arrest,10454
+NY-000500,20170720,Unknown,Unknown,Asian,55,Female,New York,NY,40.80323462,-73.91298364,Closed without arrest,10454
+NY-000047,20160307,Unknown,Unknown,Hispanic,34,Female,New York,NY,40.81219035,-73.92420691,Closed without arrest,10454
+NY-000039,20160222,Unknown,Unknown,Hispanic,20,Male,New York,NY,40.81032832,-73.91476613,Open/No arrest,10454
+NY-000363,20170203,Unknown,Unknown,Black,44,Male,New York,NY,40.80426574,-73.91929264,Open/No arrest,10454
+NY-000208,20160808,Unknown,Unknown,Black,31,Male,New York,NY,40.80518201,-73.9186305,Open/No arrest,10454
+NY-000484,20170710,Unknown,Unknown,Hispanic,53,Male,New York,NY,40.806898,-73.91555799,Open/No arrest,10454
+NY-000491,20170713,Unknown,Unknown,Black,31,Male,New York,NY,40.80660429,-73.91186305,Open/No arrest,10454
+NY-000061,20160318,Unknown,Unknown,Hispanic,37,Male,New York,NY,40.81111227,-73.90634445,Open/No arrest,10455
+NY-000101,20160507,Unknown,Unknown,Hispanic,26,Male,New York,NY,40.81775516,-73.91801901,Closed by arrest,10455
+NY-000075,20160410,Unknown,Unknown,Black,30,Male,New York,NY,40.81606827,-73.90855209,Closed by arrest,10455
+NY-000163,20160703,Unknown,Unknown,Hispanic,68,Male,New York,NY,40.81400055,-73.90078054,Closed by arrest,10455
+NY-000106,20160511,Unknown,Unknown,Hispanic,60,Female,New York,NY,40.81841398,-73.90727713,Closed by arrest,10455
+NY-000291,20161102,Unknown,Unknown,Hispanic,45,Female,New York,NY,40.81932049,-73.91538326,Closed by arrest,10455
+NY-000362,20170202,Unknown,Unknown,Black,46,Male,New York,NY,40.81911893,-73.91017731,Closed by arrest,10455
+NY-000138,20160611,Unknown,Unknown,Black,28,Female,New York,NY,40.81680557,-73.90726131,Open/No arrest,10455
+NY-000397,20170327,Unknown,Unknown,Black,21,Female,New York,NY,40.8230902,-73.90298906,Closed by arrest,10456
+NY-000302,20161123,Unknown,Unknown,Black,37,Male,New York,NY,40.82479892,-73.90817515,Closed by arrest,10456
+NY-000366,20170208,Unknown,Unknown,Black,18,Male,New York,NY,40.83308866,-73.91630531,Open/No arrest,10456
+NY-000334,20161230,Unknown,Unknown,Black,27,Male,New York,NY,40.83732184,-73.9101166,Open/No arrest,10456
+NY-000282,20161013,Unknown,Unknown,Black,0,Male,New York,NY,40.83342426,-73.90001077,Open/No arrest,10456
+NY-000221,20160817,Unknown,Unknown,Black,17,Male,New York,NY,40.83626606,-73.91132866,Open/No arrest,10456
+NY-000314,20161203,Unknown,Unknown,White,68,Male,New York,NY,40.8376838,-73.91325661,Closed by arrest,10456
+NY-000089,20160423,Unknown,Unknown,Black,30,Male,New York,NY,40.83557792,-73.90880353,Open/No arrest,10456
+NY-000526,20170829,Unknown,Unknown,Black,24,Male,New York,NY,40.82123865,-73.90434664,Closed by arrest,10456
+NY-000540,20170925,Unknown,Unknown,Hispanic,44,Female,New York,NY,40.82839287,-73.90282957,Closed by arrest,10456
+NY-000599,20171130,Unknown,Unknown,Hispanic,45,Female,New York,NY,40.82908755,-73.9135063,Closed by arrest,10456
+NY-000595,20171120,Unknown,Unknown,Black,33,Male,New York,NY,40.82093032,-73.91001951,Closed by arrest,10456
+NY-000509,20170731,Unknown,Unknown,Black,38,Male,New York,NY,40.83380991,-73.90828919,Open/No arrest,10456
+NY-000559,20171013,Unknown,Unknown,Black,24,Male,New York,NY,40.83434802,-73.90846553,Closed by arrest,10456
+NY-000522,20170822,Unknown,Unknown,Black,35,Male,New York,NY,40.82849393,-73.90554671,Closed by arrest,10456
+NY-000468,20170629,Unknown,Unknown,Black,22,Male,New York,NY,40.83450277,-73.91337278,Open/No arrest,10456
+NY-000121,20160526,Unknown,Unknown,Black,38,Female,New York,NY,40.82936329,-73.91904539,Closed by arrest,10456
+NY-000320,20161211,Unknown,Unknown,Hispanic,41,Male,New York,NY,40.84598479,-73.90746279,Closed by arrest,10457
+NY-000105,20160511,Unknown,Unknown,Hispanic,32,Male,New York,NY,40.84169493,-73.91110819,Open/No arrest,10457
+NY-000499,20170720,Unknown,Unknown,Hispanic,47,Female,New York,NY,40.84853981,-73.88849753,Open/No arrest,10457
+NY-000190,20160725,Unknown,Unknown,Hispanic,37,Female,New York,NY,40.84598479,-73.90746279,Closed by arrest,10457
+NY-000189,20160725,Unknown,Unknown,Hispanic,33,Male,New York,NY,40.84598479,-73.90746279,Closed by arrest,10457
+NY-000041,20160301,Unknown,Unknown,Hispanic,27,Male,New York,NY,40.8535874,-73.90059136,Closed by arrest,10457
+NY-000592,20171111,Unknown,Unknown,Hispanic,27,Male,New York,NY,40.84839879,-73.89320384,Open/No arrest,10457
+NY-000410,20170411,Unknown,Unknown,Black,21,Male,New York,NY,40.84708885,-73.88669636,Closed by arrest,10457
+NY-000268,20161001,Unknown,Unknown,Black,50,Female,New York,NY,40.84280311,-73.8970764,Closed by arrest,10457
+NY-000269,20161001,Unknown,Unknown,Black,27,Male,New York,NY,40.84280311,-73.8970764,Closed by arrest,10457
+NY-000165,20160704,Unknown,Unknown,Hispanic,17,Male,New York,NY,40.84227197,-73.90503201,Closed by arrest,10457
+NY-000288,20161030,Unknown,Unknown,Black,70,Male,New York,NY,40.84627881,-73.89205787,Open/No arrest,10457
+NY-000140,20160611,Unknown,Unknown,Black,32,Male,New York,NY,40.84674154,-73.90648223,Open/No arrest,10457
+NY-000173,20160712,Unknown,Unknown,Hispanic,21,Male,New York,NY,40.86329111,-73.88980684,Closed by arrest,10458
+NY-000124,20160529,Unknown,Unknown,Hispanic,19,Male,New York,NY,40.852842,-73.88417431,Closed by arrest,10458
+NY-000126,20160530,Unknown,Unknown,Black,64,Male,New York,NY,40.8541201,-73.88880989,Closed by arrest,10458
+NY-000210,20160809,Unknown,Unknown,Black,49,Male,New York,NY,40.86930172,-73.88951125,Closed by arrest,10458
+NY-000094,20160428,Unknown,Unknown,Hispanic,25,Male,New York,NY,40.86106309,-73.89344741,Closed by arrest,10458
+NY-000382,20170302,Unknown,Unknown,Black,36,Male,New York,NY,40.86188902,-73.89320749,Open/No arrest,10458
+NY-000107,20160511,Unknown,Unknown,Hispanic,23,Male,New York,NY,40.86858748,-73.88331168,Closed by arrest,10458
+NY-000150,20160619,Unknown,Unknown,Hispanic,25,Male,New York,NY,40.86065555,-73.8950062,Closed by arrest,10458
+NY-000017,20160121,Unknown,Unknown,Hispanic,36,Male,New York,NY,40.85792263,-73.89289573,Closed by arrest,10458
+NY-000073,20160408,Unknown,Unknown,Hispanic,24,Male,New York,NY,40.85741836,-73.8937063,Closed by arrest,10458
+NY-000479,20170705,Unknown,Unknown,Black,51,Male,New York,NY,40.86020622,-73.89289206,Closed by arrest,10458
+NY-000407,20170411,Unknown,Unknown,Hispanic,56,Male,New York,NY,40.82679898,-73.89141017,Closed by arrest,10459
+NY-000300,20161120,Unknown,Unknown,Hispanic,19,Male,New York,NY,40.82387628,-73.89186297,Closed by arrest,10459
+NY-000309,20161128,Unknown,Unknown,Black,24,Male,New York,NY,40.82342387,-73.90158306,Open/No arrest,10459
+NY-000149,20160618,Unknown,Unknown,Black,17,Male,New York,NY,40.82510044,-73.89485635,Open/No arrest,10459
+NY-000092,20160427,Unknown,Unknown,Hispanic,41,Male,New York,NY,40.82041106,-73.89333186,Closed by arrest,10459
+NY-000322,20161213,Unknown,Unknown,Black,26,Male,New York,NY,40.82098643,-73.89222896,Closed by arrest,10459
+NY-000139,20160611,Unknown,Unknown,Black,31,Male,New York,NY,40.82026147,-73.89787722,Open/No arrest,10459
+NY-000381,20170228,Unknown,Unknown,Black,70,Male,New York,NY,40.83039424,-73.89402772,Closed without arrest,10459
+NY-000337,20170102,Unknown,Unknown,Hispanic,42,Male,New York,NY,40.83112916,-73.89037323,Closed by arrest,10459
+NY-000093,20160427,Unknown,Unknown,Black,19,Male,New York,NY,40.8345718,-73.88831495,Open/No arrest,10460
+NY-000336,20170101,Unknown,Unknown,Hispanic,0,Female,New York,NY,40.84537978,-73.88209822,Closed by arrest,10460
+NY-000542,20170927,Unknown,Unknown,Black,15,Male,New York,NY,40.84400188,-73.88476076,Closed by arrest,10460
+NY-000293,20161104,Unknown,Unknown,White,41,Male,New York,NY,40.83712945,-73.8671947,Closed without arrest,10460
+NY-000328,20161220,Unknown,Unknown,Black,24,Male,New York,NY,40.83987167,-73.88813981,Closed by arrest,10460
+NY-000277,20161008,Unknown,Unknown,Hispanic,56,Male,New York,NY,40.83877887,-73.86470137,Closed by arrest,10460
+NY-000172,20160711,Unknown,Unknown,Hispanic,76,Male,New York,NY,40.83797773,-73.88525546,Closed by arrest,10460
+NY-000342,20170106,Unknown,Unknown,Hispanic,48,Female,New York,NY,40.84051655,-73.87982274,Open/No arrest,10460
+NY-000531,20170906,Unknown,Unknown,Black,21,Male,New York,NY,40.84425887,-73.8810629,Closed by arrest,10460
+NY-000452,20170609,Unknown,Unknown,Hispanic,24,Male,New York,NY,40.83995042,-73.87654583,Open/No arrest,10460
+NY-000198,20160802,Unknown,Unknown,Hispanic,29,Male,New York,NY,40.84232858,-73.88573948,Closed by arrest,10460
+NY-000313,20161201,Unknown,Unknown,White,55,Female,New York,NY,40.84169092,-73.83704006,Closed by arrest,10461
+NY-000252,20160920,Unknown,Unknown,Asian,36,Male,New York,NY,40.85596179,-73.83979581,Open/No arrest,10461
+NY-000068,20160327,Unknown,Unknown,Black,1,Male,New York,NY,40.83571848,-73.85130396,Open/No arrest,10462
+NY-000626,20171228,Unknown,Unknown,Black,16,Male,New York,NY,40.84560891,-73.85883585,Closed by arrest,10462
+NY-000201,20160803,Unknown,Unknown,Hispanic,40,Male,New York,NY,40.83684318,-73.85080996,Closed by arrest,10462
+NY-000448,20170531,Unknown,Unknown,Black,45,Male,New York,NY,40.832142,-73.849512,Open/No arrest,10462
+NY-000027,20160208,Unknown,Unknown,Black,29,Male,New York,NY,40.85306449,-73.86894496,Closed by arrest,10462
+NY-000486,20170710,Unknown,Unknown,Black,2,Female,New York,NY,40.88496737,-73.89128622,Open/No arrest,10463
+NY-000270,20161002,Unknown,Unknown,Hispanic,36,Male,New York,NY,40.87674365,-73.90622669,Closed by arrest,10463
+NY-000002,20160104,Unknown,Unknown,Hispanic,28,Male,New York,NY,40.88392791,-73.90132352,Closed by arrest,10463
+NY-000485,20170710,Unknown,Unknown,Black,3,Male,New York,NY,40.88496737,-73.89128622,Open/No arrest,10463
+NY-000253,20160920,Unknown,Unknown,White,60,Male,New York,NY,40.83079891,-73.8269488,Open/No arrest,10465
+NY-000111,20160517,Unknown,Unknown,White,29,Female,New York,NY,40.84435041,-73.81510567,Closed without arrest,10465
+NY-000388,20170314,Unknown,Unknown,Hispanic,39,Male,New York,NY,40.82050306,-73.82128511,Closed by arrest,10465
+NY-000377,20170222,Unknown,Unknown,Asian,44,Male,New York,NY,40.83275285,-73.82493091,Closed by arrest,10465
+NY-000023,20160202,Unknown,Unknown,Black,59,Male,New York,NY,40.88905357,-73.85132571,Closed by arrest,10466
+NY-000170,20160709,Unknown,Unknown,Black,32,Male,New York,NY,40.88443116,-73.8330042,Open/No arrest,10466
+NY-000279,20161009,Unknown,Unknown,Asian,69,Female,New York,NY,40.90346808,-73.84463004,Open/No arrest,10466
+NY-000122,20160527,Unknown,Unknown,Black,55,Male,New York,NY,40.88731363,-73.84727176,Closed by arrest,10466
+NY-000583,20171103,Unknown,Unknown,Hispanic,22,Male,New York,NY,40.88901729,-73.86420491,Closed by arrest,10466
+NY-000403,20170402,Unknown,Unknown,Hispanic,26,Female,New York,NY,40.87922784,-73.86261208,Open/No arrest,10467
+NY-000145,20160615,Unknown,Unknown,Black,32,Female,New York,NY,40.88605249,-73.8614443,Closed by arrest,10467
+NY-000480,20170705,Unknown,Unknown,Black,22,Male,New York,NY,40.87899962,-73.86458698,Closed by arrest,10467
+NY-000398,20170329,Unknown,Unknown,Black,46,Male,New York,NY,40.87433354,-73.87934218,Closed by arrest,10467
+NY-000546,20170929,Unknown,Unknown,Black,29,Male,New York,NY,40.86432972,-73.86739346,Closed by arrest,10467
+NY-000511,20170807,Unknown,Unknown,Black,34,Male,New York,NY,40.88312657,-73.86137445,Closed by arrest,10467
+NY-000192,20160725,Unknown,Unknown,Black,49,Female,New York,NY,40.87014243,-73.86930541,Closed by arrest,10467
+NY-000115,20160519,Unknown,Unknown,Black,18,Male,New York,NY,40.85963966,-73.86323458,Closed by arrest,10467
+NY-000056,20160313,Unknown,Unknown,Black,47,Male,New York,NY,40.88039855,-73.86385365,Closed by arrest,10467
+NY-000447,20170531,Unknown,Unknown,Black,18,Male,New York,NY,40.88351533,-73.85608283,Open/No arrest,10467
+NY-000281,20161013,Unknown,Unknown,Hispanic,47,Male,New York,NY,40.85919216,-73.90067697,Open/No arrest,10468
+NY-000350,20170123,Unknown,Unknown,Hispanic,52,Female,New York,NY,40.86893214,-73.90277394,Closed by arrest,10468
+NY-000541,20170926,Unknown,Unknown,Hispanic,39,Male,New York,NY,40.871116,-73.89851865,Closed by arrest,10468
+NY-000090,20160424,Unknown,Unknown,Hispanic,75,Male,New York,NY,40.8728454,-73.89879443,Closed by arrest,10468
+NY-000086,20160419,Unknown,Unknown,Hispanic,58,Male,New York,NY,40.86958854,-73.9000504,Closed by arrest,10468
+NY-000558,20171013,Unknown,Unknown,Hispanic,20,Male,New York,NY,40.85872904,-73.90153805,Closed by arrest,10468
+NY-000298,20161113,Unknown,Unknown,White,22,Male,New York,NY,40.86189456,-73.85766248,Open/No arrest,10469
+NY-000003,20160104,Unknown,Unknown,Black,39,Female,New York,NY,40.87360167,-73.84560379,Closed by arrest,10469
+NY-000551,20171001,Unknown,Unknown,Black,41,Male,New York,NY,40.86080473,-73.85751659,Open/No arrest,10469
+NY-000482,20170707,Unknown,Unknown,Black,20,Male,New York,NY,40.87817004,-73.84445049,Open/No arrest,10469
+NY-000451,20170603,Unknown,Unknown,Black,22,Male,New York,NY,40.82721564,-73.87980702,Closed by arrest,10472
+NY-000152,20160620,Unknown,Unknown,Black,32,Male,New York,NY,40.82787167,-73.86495842,Open/No arrest,10472
+NY-000580,20171101,Unknown,Unknown,Hispanic,22,Female,New York,NY,40.82788869,-73.8751915,Closed by arrest,10472
+NY-000547,20170930,Unknown,Unknown,Hispanic,40,Male,New York,NY,40.8331423,-73.8656271,Closed by arrest,10472
+NY-000391,20170316,Unknown,Unknown,Hispanic,44,Male,New York,NY,40.82842649,-73.8606754,Closed by arrest,10472
+NY-000472,20170701,Unknown,Unknown,Black,23,Male,New York,NY,40.81572025,-73.86450259,Closed by arrest,10473
+NY-000060,20160317,Unknown,Unknown,Black,21,Male,New York,NY,40.82318003,-73.86653604,Open/No arrest,10473
+NY-000084,20160417,Unknown,Unknown,Black,19,Male,New York,NY,40.81636615,-73.86762631,Open/No arrest,10473
+NY-000177,20160716,Unknown,Unknown,Hispanic,44,Male,New York,NY,40.81572025,-73.86450259,Closed by arrest,10473
+NY-000289,20161101,Unknown,Unknown,Hispanic,25,Male,New York,NY,40.82145596,-73.86620349,Open/No arrest,10473
+NY-000612,20171216,Unknown,Unknown,Hispanic,28,Male,New York,NY,40.81973193,-73.8481928,Open/No arrest,10473
+NY-000446,20170531,Unknown,Unknown,Black,66,Male,New York,NY,40.81927606,-73.85439,Closed by arrest,10473
+NY-000576,20171031,Unknown,Unknown,Hispanic,16,Male,New York,NY,40.81636615,-73.86762631,Open/No arrest,10473
+NY-000042,20160304,Unknown,Unknown,Hispanic,36,Male,New York,NY,40.82097993,-73.84964239,Closed by arrest,10473
+NY-000471,20170630,Unknown,Unknown,Black,31,Male,New York,NY,40.81636615,-73.86762631,Open/No arrest,10473
+NY-000466,20170625,Unknown,Unknown,Black,34,Male,New York,NY,40.80963767,-73.89003655,Closed by arrest,10474
+NY-000627,20171229,Unknown,Unknown,Unknown,38,Unknown,New York,NY,40.81172787,-73.89157925,Open/No arrest,10474
+NY-000099,20160504,Unknown,Unknown,Hispanic,37,Male,New York,NY,40.81493989,-73.88659213,Closed by arrest,10474
+NY-000212,20160811,Unknown,Unknown,Black,47,Male,New York,NY,40.81840737,-73.8875075,Open/No arrest,10474
+NY-000306,20161126,Unknown,Unknown,Black,44,Female,New York,NY,40.87418098,-73.83387245,Closed by arrest,10475
+NY-000154,20160623,Unknown,Unknown,Black,83,Male,New York,NY,40.872596,-73.82556364,Closed by arrest,10475
+NY-000421,20170428,Unknown,Unknown,Black,41,Male,New York,NY,40.88595265,-73.82259195,Closed by arrest,10475
+NY-000504,20170725,Unknown,Unknown,Hispanic,25,Male,New York,NY,40.88682985,-73.82010501,Closed by arrest,10475
+NY-000432,20170515,Unknown,Unknown,Black,38,Male,New York,NY,40.75567574,-73.94803956,Open/No arrest,11101
+NY-000178,20160717,Unknown,Unknown,Black,23,Male,New York,NY,40.76469406,-73.91434801,Closed by arrest,11103
+NY-000046,20160306,Unknown,Unknown,White,55,Male,New York,NY,40.76894073,-73.91144357,Closed by arrest,11103
+NY-000195,20160730,Unknown,Unknown,Hispanic,0,Female,New York,NY,40.73883882,-73.92670086,Closed by arrest,11104
+NY-000496,20170716,Unknown,Unknown,Black,26,Male,New York,NY,40.76062674,-73.93609108,Open/No arrest,11106
+NY-000601,20171202,Unknown,Unknown,Black,20,Male,New York,NY,40.76005092,-73.93714206,Closed by arrest,11106
+NY-000502,20170722,Unknown,Unknown,Black,26,Male,New York,NY,40.7010164,-73.98479641,Open/No arrest,11201
+NY-000135,20160606,Unknown,Unknown,Black,23,Female,New York,NY,40.6930658,-73.99954347,Closed by arrest,11201
+NY-000461,20170619,Unknown,Unknown,White,57,Male,New York,NY,40.70417075,-73.99060605,Open/No arrest,11201
+NY-000566,20171025,Unknown,Unknown,Black,26,Male,New York,NY,40.70140602,-73.98380813,Closed by arrest,11201
+NY-000143,20160615,Unknown,Unknown,Hispanic,29,Male,New York,NY,40.69969571,-73.98169157,Closed by arrest,11201
+NY-000386,20170311,Unknown,Unknown,White,77,Male,New York,NY,40.65927523,-73.93411573,Closed by arrest,11203
+NY-000330,20161225,Unknown,Unknown,Black,30,Male,New York,NY,40.64632828,-73.92980425,Open/No arrest,11203
+NY-000035,20160215,Unknown,Unknown,Black,33,Male,New York,NY,40.65149337,-73.92453362,Open/No arrest,11203
+NY-000375,20170220,Unknown,Unknown,Black,15,Male,New York,NY,40.65628399,-73.9260239,Closed by arrest,11203
+NY-000380,20170227,Unknown,Unknown,Black,78,Female,New York,NY,40.64293893,-73.93526332,Closed by arrest,11203
+NY-000217,20160814,Unknown,Unknown,Black,28,Male,New York,NY,40.6407907,-73.93214138,Open/No arrest,11203
+NY-000206,20160807,Unknown,Unknown,Black,48,Male,New York,NY,40.66043663,-73.93977336,Closed by arrest,11203
+NY-000326,20161218,Unknown,Unknown,Black,19,Male,New York,NY,40.65758692,-73.92905355,Open/No arrest,11203
+NY-000179,20160717,Unknown,Unknown,Black,23,Male,New York,NY,40.65199898,-73.94486962,Open/No arrest,11203
+NY-000439,20170521,Unknown,Unknown,Black,35,Male,New York,NY,40.64287359,-73.93622908,Open/No arrest,11203
+NY-000443,20170527,Unknown,Unknown,Black,21,Male,New York,NY,40.64999672,-73.93214643,Open/No arrest,11203
+NY-000405,20170409,Unknown,Unknown,Black,41,Male,New York,NY,40.68962245,-73.96014913,Closed by arrest,11205
+NY-000185,20160721,Unknown,Unknown,White,26,Female,New York,NY,40.69514091,-73.97512595,Open/No arrest,11205
+NY-000229,20160828,Unknown,Unknown,Black,25,Male,New York,NY,40.69726035,-73.97746204,Open/No arrest,11205
+NY-000016,20160120,Unknown,Unknown,Hispanic,17,Male,New York,NY,40.70686033,-73.94819663,Closed by arrest,11206
+NY-000597,20171124,Unknown,Unknown,Black,20,Male,New York,NY,40.70008542,-73.94078702,Closed by arrest,11206
+NY-000420,20170428,Unknown,Unknown,Black,22,Male,New York,NY,40.70903068,-73.94091974,Closed by arrest,11206
+NY-000503,20170723,Unknown,Unknown,Black,33,Male,New York,NY,40.69432932,-73.93511605,Closed by arrest,11206
+NY-000129,20160601,Unknown,Unknown,Black,17,Male,New York,NY,40.69649389,-73.94943082,Open/No arrest,11206
+NY-000194,20160728,Unknown,Unknown,Black,63,Male,New York,NY,40.69456692,-73.94324411,Closed without arrest,11206
+NY-000409,20170411,Unknown,Unknown,Black,28,Male,New York,NY,40.70926377,-73.94608109,Closed by arrest,11206
+NY-000440,20170524,Unknown,Unknown,Black,29,Male,New York,NY,40.70368883,-73.93988215,Closed by arrest,11206
+NY-000263,20160928,Unknown,Unknown,Black,38,Male,New York,NY,40.6931409,-73.94585973,Closed by arrest,11206
+NY-000319,20161211,Unknown,Unknown,Hispanic,31,Male,New York,NY,40.70380741,-73.95285881,Closed by arrest,11206
+NY-000296,20161111,Unknown,Unknown,Hispanic,49,Male,New York,NY,40.66357893,-73.89664646,Closed by arrest,11207
+NY-000166,20160704,Unknown,Unknown,Black,37,Male,New York,NY,40.67615224,-73.89306867,Closed by arrest,11207
+NY-000610,20171212,Unknown,Unknown,Asian,80,Male,New York,NY,40.66136068,-73.87925883,Closed by arrest,11207
+NY-000213,20160812,Unknown,Unknown,Black,22,Male,New York,NY,40.69065484,-73.90804256,Open/No arrest,11207
+NY-000102,20160508,Unknown,Unknown,Hispanic,19,Male,New York,NY,40.68949104,-73.90801893,Closed by arrest,11207
+NY-000368,20170211,Unknown,Unknown,Black,41,Male,New York,NY,40.66204973,-73.89625234,Closed by arrest,11207
+NY-000096,20160429,Unknown,Unknown,Black,41,Male,New York,NY,40.66399633,-73.89384871,Open/No arrest,11207
+NY-000433,20170516,Unknown,Unknown,Asian,37,Male,New York,NY,40.67870062,-73.8885832,Closed by arrest,11207
+NY-000040,20160225,Unknown,Unknown,Black,23,Male,New York,NY,40.66762987,-73.89625448,Open/No arrest,11207
+NY-000465,20170624,Unknown,Unknown,Asian,50,Male,New York,NY,40.67439344,-73.88793787,Open/No arrest,11207
+NY-000077,20160413,Unknown,Unknown,Black,21,Male,New York,NY,40.66511418,-73.89167338,Closed by arrest,11207
+NY-000158,20160629,Unknown,Unknown,Black,42,Male,New York,NY,40.66357893,-73.89664646,Closed by arrest,11207
+NY-000066,20160324,Unknown,Unknown,Black,34,Male,New York,NY,40.67432526,-73.88838862,Open/No arrest,11207
+NY-000581,20171101,Unknown,Unknown,Black,25,Male,New York,NY,40.66568593,-73.89861851,Open/No arrest,11207
+NY-000586,20171104,Unknown,Unknown,Black,16,Male,New York,NY,40.65690638,-73.88509116,Open/No arrest,11207
+NY-000010,20160111,Unknown,Unknown,Black,34,Male,New York,NY,40.68190669,-73.89458817,Closed by arrest,11207
+NY-000031,20160211,Unknown,Unknown,Black,16,Male,New York,NY,40.66269281,-73.88830716,Closed by arrest,11207
+NY-000011,20160113,Unknown,Unknown,Black,18,Male,New York,NY,40.66475956,-73.89404214,Closed by arrest,11207
+NY-000013,20160116,Unknown,Unknown,Hispanic,26,Male,New York,NY,40.66107953,-73.89482292,Open/No arrest,11207
+NY-000275,20161005,Unknown,Unknown,Black,37,Male,New York,NY,40.67278405,-73.86647289,Closed by arrest,11208
+NY-000464,20170623,Unknown,Unknown,Black,23,Female,New York,NY,40.66389824,-73.88058069,Closed by arrest,11208
+NY-000299,20161114,Unknown,Unknown,Hispanic,45,Male,New York,NY,40.67625877,-73.88404115,Closed by arrest,11208
+NY-000310,20161130,Unknown,Unknown,Hispanic,27,Female,New York,NY,40.66753343,-73.86424849,Open/No arrest,11208
+NY-000103,20160508,Unknown,Unknown,Black,33,Male,New York,NY,40.67141166,-73.88151172,Open/No arrest,11208
+NY-000151,20160619,Unknown,Unknown,Black,55,Male,New York,NY,40.68049485,-73.86709561,Closed by arrest,11208
+NY-000136,20160607,Unknown,Unknown,Hispanic,55,Male,New York,NY,40.67084625,-73.86887402,Closed by arrest,11208
+NY-000425,20170501,Unknown,Unknown,Black,41,Female,New York,NY,40.65837576,-73.87542935,Closed without arrest,11208
+NY-000161,20160630,Unknown,Unknown,Asian,26,Male,New York,NY,40.6708698,-73.86317105,Closed by arrest,11208
+NY-000249,20160913,Unknown,Unknown,Black,45,Female,New York,NY,40.6726741,-73.86168931,Closed by arrest,11208
+NY-000018,20160122,Unknown,Unknown,Hispanic,61,Male,New York,NY,40.68479212,-73.87855657,Closed by arrest,11208
+NY-000260,20160927,Unknown,Unknown,Black,31,Male,New York,NY,40.67258587,-73.87326146,Closed by arrest,11208
+NY-000142,20160612,Unknown,Unknown,Black,22,Male,New York,NY,40.67141166,-73.88151172,Open/No arrest,11208
+NY-000205,20160804,Unknown,Unknown,Black,24,Male,New York,NY,40.66840387,-73.86928616,Closed by arrest,11208
+NY-000373,20170217,Unknown,Unknown,Hispanic,20,Male,New York,NY,40.67378125,-73.86960007,Closed by arrest,11208
+NY-000463,20170623,Unknown,Unknown,Black,27,Male,New York,NY,40.66389824,-73.88058069,Closed by arrest,11208
+NY-000186,20160722,Unknown,Unknown,Hispanic,59,Male,New York,NY,40.61809147,-74.02785232,Closed by arrest,11209
+NY-000204,20160804,Unknown,Unknown,Black,28,Male,New York,NY,40.62396037,-73.93828248,Closed by arrest,11210
+NY-000127,20160531,Unknown,Unknown,Black,16,Female,New York,NY,40.63780447,-73.9423772,Closed by arrest,11210
+NY-000530,20170905,Unknown,Unknown,Black,63,Female,New York,NY,40.62704593,-73.94448675,Closed by arrest,11210
+NY-000234,20160902,Unknown,Unknown,Black,21,Male,New York,NY,40.62808972,-73.94610344,Open/No arrest,11210
+NY-000606,20171210,Unknown,Unknown,Black,37,Male,New York,NY,40.63439501,-73.94152625,Closed by arrest,11210
+NY-000226,20160822,Unknown,Unknown,Black,22,Male,New York,NY,40.62959783,-73.94294269,Open/No arrest,11210
+NY-000125,20160529,Unknown,Unknown,Black,50,Male,New York,NY,40.63861424,-73.94826763,Open/No arrest,11210
+NY-000619,20171220,Unknown,Unknown,Hispanic,19,Male,New York,NY,40.71124488,-73.95776997,Open/No arrest,11211
+NY-000113,20160518,Unknown,Unknown,Black,17,Male,New York,NY,40.65562116,-73.91993738,Open/No arrest,11212
+NY-000523,20170825,Unknown,Unknown,Black,33,Male,New York,NY,40.66423942,-73.90842501,Open/No arrest,11212
+NY-000521,20170820,Unknown,Unknown,Black,49,Male,New York,NY,40.65654515,-73.91850544,Closed by arrest,11212
+NY-000175,20160715,Unknown,Unknown,Black,40,Male,New York,NY,40.67013835,-73.90892519,Closed by arrest,11212
+NY-000505,20170725,Unknown,Unknown,Black,27,Male,New York,NY,40.65600177,-73.9043565,Closed by arrest,11212
+NY-000413,20170413,Unknown,Unknown,Black,28,Male,New York,NY,40.6619404,-73.92102914,Open/No arrest,11212
+NY-000311,20161130,Unknown,Unknown,Hispanic,32,Male,New York,NY,40.66786282,-73.90538847,Closed by arrest,11212
+NY-000254,20160921,Unknown,Unknown,Black,28,Male,New York,NY,40.67116824,-73.90968803,Closed by arrest,11212
+NY-000176,20160715,Unknown,Unknown,Black,37,Male,New York,NY,40.67013835,-73.90892519,Closed by arrest,11212
+NY-000408,20170411,Unknown,Unknown,Black,68,Female,New York,NY,40.65823471,-73.92068392,Closed by arrest,11212
+NY-000602,20171202,Unknown,Unknown,Black,30,Male,New York,NY,40.66251802,-73.9270118,Open/No arrest,11212
+NY-000005,20160109,Unknown,Unknown,Black,25,Male,New York,NY,40.66156215,-73.92594596,Open/No arrest,11212
+NY-000219,20160816,Unknown,Unknown,Black,27,Male,New York,NY,40.65911476,-73.92321665,Open/No arrest,11212
+NY-000357,20170126,Unknown,Unknown,Black,4,Male,New York,NY,40.66053387,-73.91181456,Closed by arrest,11212
+NY-000360,20170202,Unknown,Unknown,Hispanic,44,Male,New York,NY,40.66431022,-73.91862211,Open/No arrest,11212
+NY-000153,20160623,Unknown,Unknown,Black,52,Male,New York,NY,40.67102546,-73.90619508,Closed by arrest,11212
+NY-000462,20170621,Unknown,Unknown,Black,29,Male,New York,NY,40.6664944,-73.92162212,Closed by arrest,11212
+NY-000261,20160927,Unknown,Unknown,Black,40,Male,New York,NY,40.66251802,-73.9270118,Open/No arrest,11212
+NY-000248,20160913,Unknown,Unknown,Black,22,Female,New York,NY,40.65774309,-73.90913674,Closed by arrest,11212
+NY-000146,20160615,Unknown,Unknown,Black,26,Male,New York,NY,40.66623152,-73.922538,Open/No arrest,11212
+NY-000004,20160106,Unknown,Unknown,Black,27,Male,New York,NY,40.67460182,-73.93861415,Open/No arrest,11213
+NY-000385,20170307,Unknown,Unknown,Black,19,Male,New York,NY,40.67967007,-73.93613621,Open/No arrest,11213
+NY-000134,20160605,Unknown,Unknown,Black,26,Male,New York,NY,40.67967007,-73.93613621,Open/No arrest,11213
+NY-000128,20160531,Unknown,Unknown,Black,46,Male,New York,NY,40.67066778,-73.93233809,Closed by arrest,11213
+NY-000220,20160816,Unknown,Unknown,Black,30,Male,New York,NY,40.67459999,-73.93057482,Open/No arrest,11213
+NY-000396,20170323,Unknown,Unknown,Black,70,Female,New York,NY,40.66805923,-73.93536871,Closed by arrest,11213
+NY-000232,20160901,Unknown,Unknown,Black,37,Male,New York,NY,40.67498697,-73.94584923,Closed by arrest,11213
+NY-000624,20171227,Unknown,Unknown,White,22,Female,New York,NY,40.67195913,-73.93961875,Closed by arrest,11213
+NY-000615,20171216,Unknown,Unknown,Black,32,Male,New York,NY,40.67074269,-73.93372229,Open/No arrest,11213
+NY-000228,20160828,Unknown,Unknown,Black,27,Male,New York,NY,40.67334104,-73.93208303,Open/No arrest,11213
+NY-000474,20170702,Unknown,Unknown,Black,48,Male,New York,NY,40.66775681,-73.92982856,Open/No arrest,11213
+NY-000359,20170130,Unknown,Unknown,Black,29,Male,New York,NY,40.67967007,-73.93613621,Closed by arrest,11213
+NY-000460,20170619,Unknown,Unknown,White,20,Male,New York,NY,40.66211735,-73.98391499,Closed by arrest,11215
+NY-000251,20160919,Unknown,Unknown,Black,20,Male,New York,NY,40.68639573,-73.94909593,Open/No arrest,11216
+NY-000475,20170703,Unknown,Unknown,Black,55,Female,New York,NY,40.68674842,-73.9460416,Closed by arrest,11216
+NY-000416,20170418,Unknown,Unknown,Black,30,Male,New York,NY,40.67619121,-73.9443413,Closed by arrest,11216
+NY-000620,20171221,Unknown,Unknown,Black,19,Male,New York,NY,40.68674842,-73.9460416,Open/No arrest,11216
+NY-000529,20170903,Unknown,Unknown,Black,49,Male,New York,NY,40.67902677,-73.9508285,Open/No arrest,11216
+NY-000554,20171007,Unknown,Unknown,Black,34,Male,New York,NY,40.68033281,-73.938425,Open/No arrest,11216
+NY-000556,20171012,Unknown,Unknown,Hispanic,19,Male,New York,NY,40.68313454,-73.98743253,Closed by arrest,11217
+NY-000537,20170920,Unknown,Unknown,Hispanic,47,Male,New York,NY,40.68488183,-73.97954668,Open/No arrest,11217
+NY-000123,20160528,Unknown,Unknown,Black,59,Female,New York,NY,40.68565053,-73.98048752,Closed by arrest,11217
+NY-000590,20171109,Unknown,Unknown,Asian,56,Female,New York,NY,40.62715241,-74.00748747,Closed by arrest,11219
+NY-000589,20171109,Unknown,Unknown,Asian,58,Male,New York,NY,40.62715241,-74.00748747,Closed by arrest,11219
+NY-000230,20160829,Unknown,Unknown,Black,36,Male,New York,NY,40.63916372,-73.99442735,Closed by arrest,11219
+NY-000591,20171109,Unknown,Unknown,White,65,Male,New York,NY,40.63932887,-74.02355179,Closed by arrest,11220
+NY-000265,20160929,Unknown,Unknown,White,35,Female,New York,NY,40.63866759,-74.0224634,Open/No arrest,11220
+NY-000034,20160215,Unknown,Unknown,Asian,44,Male,New York,NY,40.6374838,-74.00749944,Closed by arrest,11220
+NY-000512,20170809,Unknown,Unknown,White,52,Female,New York,NY,40.62969625,-74.01380321,Closed by arrest,11220
+NY-000055,20160313,Unknown,Unknown,Asian,2,Female,New York,NY,40.64480152,-74.00526972,Closed by arrest,11220
+NY-000019,20160123,Unknown,Unknown,White,37,Male,New York,NY,40.64459028,-74.00190047,Closed by arrest,11220
+NY-000449,20170602,Unknown,Unknown,Hispanic,26,Male,New York,NY,40.69569116,-73.93113707,Closed by arrest,11221
+NY-000164,20160703,Unknown,Unknown,Black,22,Female,New York,NY,40.69110326,-73.91287755,Closed without arrest,11221
+NY-000274,20161005,Unknown,Unknown,Hispanic,38,Female,New York,NY,40.68773221,-73.93749148,Closed without arrest,11221
+NY-000489,20170712,Unknown,Unknown,Black,29,Female,New York,NY,40.68807094,-73.93456685,Closed by arrest,11221
+NY-000453,20170609,Unknown,Unknown,Black,17,Male,New York,NY,40.68701159,-73.91768216,Open/No arrest,11221
+NY-000488,20170712,Unknown,Unknown,Black,21,Female,New York,NY,40.68807094,-73.93456685,Closed by arrest,11221
+NY-000183,20160720,Unknown,Unknown,Black,33,Male,New York,NY,40.6891112,-73.9450589,Open/No arrest,11221
+NY-000137,20160607,Unknown,Unknown,Black,44,Male,New York,NY,40.68499893,-73.93844593,Open/No arrest,11221
+NY-000553,20171006,Unknown,Unknown,Hispanic,41,Male,New York,NY,40.69587058,-73.92401097,Open/No arrest,11221
+NY-000088,20160421,Unknown,Unknown,Black,45,Male,New York,NY,40.68909753,-73.92561609,Closed by arrest,11221
+NY-000384,20170306,Unknown,Unknown,White,45,Male,New York,NY,40.73041479,-73.95204981,Closed by arrest,11222
+NY-000519,20170818,Unknown,Unknown,White,42,Male,New York,NY,40.72454209,-73.94242848,Closed by arrest,11222
+NY-000361,20170202,Unknown,Unknown,Hispanic,3,Male,New York,NY,40.59562076,-73.97631888,Closed by arrest,11223
+NY-000225,20160821,Unknown,Unknown,Black,30,Male,New York,NY,40.59579227,-73.98406419,Closed by arrest,11223
+NY-000588,20171107,Unknown,Unknown,Hispanic,17,Female,New York,NY,40.57390907,-74.00049459,Closed by arrest,11224
+NY-000458,20170618,Unknown,Unknown,Black,1,Female,New York,NY,40.57185868,-73.99787771,Closed by arrest,11224
+NY-000348,20170121,Unknown,Unknown,Hispanic,42,Female,New York,NY,40.57612413,-73.99982505,Closed by arrest,11224
+NY-000555,20171011,Unknown,Unknown,Black,31,Female,New York,NY,40.574751,-73.98712175,Closed by arrest,11224
+NY-000441,20170526,Unknown,Unknown,Hispanic,30,Female,New York,NY,40.57998878,-74.00272662,Closed by arrest,11224
+NY-000069,20160401,Unknown,Unknown,Black,17,Male,New York,NY,40.57482548,-73.99092661,Closed by arrest,11224
+NY-000570,20171029,Unknown,Unknown,White,42,Female,New York,NY,40.57559114,-74.01071065,Closed by arrest,11224
+NY-000015,20160117,Unknown,Unknown,Black,37,Male,New York,NY,40.57612413,-73.99982505,Open/No arrest,11224
+NY-000156,20160626,Unknown,Unknown,Black,30,Male,New York,NY,40.66978806,-73.95829369,Open/No arrest,11225
+NY-000242,20160905,Unknown,Unknown,Black,17,Male,New York,NY,40.6631334,-73.96243216,Open/No arrest,11225
+NY-000240,20160905,Unknown,Unknown,Black,22,Female,New York,NY,40.66334124,-73.96017925,Closed by arrest,11225
+NY-000071,20160403,Unknown,Unknown,Black,21,Male,New York,NY,40.65819694,-73.95853881,Closed by arrest,11225
+NY-000267,20161001,Unknown,Unknown,Black,25,Female,New York,NY,40.65095796,-73.95586568,Closed by arrest,11226
+NY-000245,20160907,Unknown,Unknown,Black,33,Male,New York,NY,40.653675,-73.96278707,Open/No arrest,11226
+NY-000561,20171020,Unknown,Unknown,Black,44,Male,New York,NY,40.64047529,-73.94846436,Closed by arrest,11226
+NY-000335,20161231,Unknown,Unknown,Unknown,39,Male,New York,NY,40.64826528,-73.95575215,Open/No arrest,11226
+NY-000345,20170112,Unknown,Unknown,Hispanic,44,Female,New York,NY,40.65222405,-73.95785779,Closed by arrest,11226
+NY-000346,20170117,Unknown,Unknown,Black,32,Female,New York,NY,40.64975625,-73.95038159,Closed by arrest,11226
+NY-000354,20170125,Unknown,Unknown,Black,53,Male,New York,NY,40.64148226,-73.96156875,Closed by arrest,11226
+NY-000494,20170714,Unknown,Unknown,Black,42,Male,New York,NY,40.65319846,-73.96621467,Closed by arrest,11226
+NY-000109,20160514,Unknown,Unknown,Black,22,Female,New York,NY,40.65495242,-73.95800022,Closed by arrest,11226
+NY-000112,20160518,Unknown,Unknown,Black,21,Male,New York,NY,40.64204307,-73.94960901,Open/No arrest,11226
+NY-000402,20170401,Unknown,Unknown,Hispanic,26,Male,New York,NY,40.65003569,-73.95580863,Closed by arrest,11226
+NY-000411,20170411,Unknown,Unknown,Black,20,Male,New York,NY,40.64732046,-73.95417079,Open/No arrest,11226
+NY-000024,20160203,Unknown,Unknown,Black,38,Male,New York,NY,40.64364733,-73.95268871,Open/No arrest,11226
+NY-000487,20170711,Unknown,Unknown,Black,20,Male,New York,NY,40.64937054,-73.96087229,Open/No arrest,11226
+NY-000202,20160803,Unknown,Unknown,Black,38,Male,New York,NY,40.64909147,-73.95577682,Closed by arrest,11226
+NY-000257,20160926,Unknown,Unknown,Black,47,Female,New York,NY,40.6410681,-73.96246981,Closed by arrest,11226
+NY-000367,20170208,Unknown,Unknown,White,66,Male,New York,NY,40.6093245,-74.01289501,Closed by arrest,11228
+NY-000162,20160630,Unknown,Unknown,White,61,Male,New York,NY,40.62075955,-74.0105486,Closed by arrest,11228
+NY-000278,20161008,Unknown,Unknown,White,44,Male,New York,NY,40.6063517,-73.94199018,Closed by arrest,11229
+NY-000422,20170429,Unknown,Unknown,White,27,Male,New York,NY,40.63410027,-73.95797371,Closed by arrest,11230
+NY-000116,20160519,Unknown,Unknown,Black,51,Female,New York,NY,40.67606466,-74.00240969,Open/No arrest,11231
+NY-000412,20170413,Unknown,Unknown,Hispanic,1,Female,New York,NY,40.67596034,-74.00335063,Closed by arrest,11231
+NY-000182,20160719,Unknown,Unknown,Black,23,Male,New York,NY,40.67500776,-74.00657715,Closed by arrest,11231
+NY-000007,20160110,Unknown,Unknown,Black,33,Male,New York,NY,40.67623191,-74.006945,Open/No arrest,11231
+NY-000072,20160404,Unknown,Unknown,White,63,Male,New York,NY,40.66182198,-73.99647996,Closed by arrest,11232
+NY-000560,20171018,Unknown,Unknown,Black,23,Male,New York,NY,40.68034722,-73.93003524,Open/No arrest,11233
+NY-000087,20160419,Unknown,Unknown,Black,24,Male,New York,NY,40.68608222,-73.91923375,Closed by arrest,11233
+NY-000549,20170930,Unknown,Unknown,Black,61,Male,New York,NY,40.68230086,-73.91299361,Open/No arrest,11233
+NY-000133,20160605,Unknown,Unknown,Black,25,Male,New York,NY,40.6702069,-73.92394288,Open/No arrest,11233
+NY-000036,20160216,Unknown,Unknown,Black,29,Male,New York,NY,40.68507795,-73.92799309,Closed by arrest,11233
+NY-000457,20170617,Unknown,Unknown,Black,46,Male,New York,NY,40.67743181,-73.9292812,Closed by arrest,11233
+NY-000211,20160810,Unknown,Unknown,Black,35,Male,New York,NY,40.67499319,-73.9152347,Open/No arrest,11233
+NY-000243,20160906,Unknown,Unknown,Hispanic,22,Male,New York,NY,40.67332448,-73.91539184,Open/No arrest,11233
+NY-000323,20161213,Unknown,Unknown,Black,32,Male,New York,NY,40.67906632,-73.91506729,Open/No arrest,11233
+NY-000009,20160111,Unknown,Unknown,Black,44,Male,New York,NY,40.67990755,-73.92078433,Closed by arrest,11233
+NY-000196,20160730,Unknown,Unknown,Black,26,Male,New York,NY,40.68180348,-73.92378904,Open/No arrest,11233
+NY-000616,20171216,Unknown,Unknown,Black,24,Male,New York,NY,40.67964988,-73.92538867,Open/No arrest,11233
+NY-000006,20160110,Unknown,Unknown,Black,29,Male,New York,NY,40.68327625,-73.93062348,Closed by arrest,11233
+NY-000235,20160903,Unknown,Unknown,Hispanic,22,Male,New York,NY,40.6756464,-73.9271849,Open/No arrest,11233
+NY-000199,20160802,Unknown,Unknown,Black,33,Male,New York,NY,40.68469984,-73.92474483,Open/No arrest,11233
+NY-000159,20160629,Unknown,Unknown,Black,21,Male,New York,NY,40.67572775,-73.9214959,Open/No arrest,11233
+NY-000237,20160903,Unknown,Unknown,Black,32,Male,New York,NY,40.6756464,-73.9271849,Open/No arrest,11233
+NY-000456,20170617,Unknown,Unknown,Black,26,Male,New York,NY,40.67094607,-73.92109057,Closed by arrest,11233
+NY-000207,20160807,Unknown,Unknown,Black,23,Male,New York,NY,40.67406344,-73.9125357,Open/No arrest,11233
+NY-000303,20161123,Unknown,Unknown,Black,22,Male,New York,NY,40.67843525,-73.92743062,Open/No arrest,11233
+NY-000147,20160615,Unknown,Unknown,Black,46,Male,New York,NY,40.68009647,-73.91255663,Open/No arrest,11233
+NY-000605,20171207,Unknown,Unknown,Hispanic,17,Male,New York,NY,40.68303382,-73.91314048,Open/No arrest,11233
+NY-000290,20161101,Unknown,Unknown,Black,31,Male,New York,NY,40.66937283,-73.9203931,Closed by arrest,11233
+NY-000369,20170214,Unknown,Unknown,Black,0,Female,New York,NY,40.68507795,-73.92799309,Closed by arrest,11233
+NY-000516,20170813,Unknown,Unknown,White,23,Male,New York,NY,40.62638938,-73.91267383,Closed by arrest,11234
+NY-000233,20160901,Unknown,Unknown,Black,24,Male,New York,NY,40.61591286,-73.92073781,Open/No arrest,11234
+NY-000527,20170902,Unknown,Unknown,White,35,Male,New York,NY,40.61377712,-73.9164542,Closed by arrest,11234
+NY-000315,20161204,Unknown,Unknown,Black,25,Female,New York,NY,40.62698601,-73.91401678,Closed by arrest,11234
+NY-000501,20170720,Unknown,Unknown,Black,31,Male,New York,NY,40.58106194,-73.96420634,Closed by arrest,11235
+NY-000097,20160502,Unknown,Unknown,Hispanic,28,Male,New York,NY,40.57851013,-73.93490098,Open/No arrest,11235
+NY-000508,20170730,Unknown,Unknown,White,48,Male,New York,NY,40.58748845,-73.95877353,Closed by arrest,11235
+NY-000562,20171021,Unknown,Unknown,Hispanic,17,Male,New York,NY,40.57790407,-73.96010059,Closed by arrest,11235
+NY-000524,20170827,Unknown,Unknown,Black,28,Male,New York,NY,40.64878696,-73.92037802,Closed by arrest,11236
+NY-000365,20170205,Unknown,Unknown,Black,22,Male,New York,NY,40.6365728,-73.90945021,Open/No arrest,11236
+NY-000544,20170929,Unknown,Unknown,Black,51,Male,New York,NY,40.65246197,-73.90894572,Closed by arrest,11236
+NY-000389,20170315,Unknown,Unknown,Black,19,Male,New York,NY,40.64931816,-73.9147556,Closed by arrest,11236
+NY-000227,20160828,Unknown,Unknown,Black,26,Male,New York,NY,40.64350604,-73.90261596,Open/No arrest,11236
+NY-000108,20160512,Unknown,Unknown,Black,22,Male,New York,NY,40.63722303,-73.91262722,Open/No arrest,11236
+NY-000498,20170717,Unknown,Unknown,Black,70,Female,New York,NY,40.64779985,-73.89437899,Closed by arrest,11236
+NY-000032,20160213,Unknown,Unknown,Black,24,Male,New York,NY,40.64200661,-73.9017029,Closed by arrest,11236
+NY-000424,20170501,Unknown,Unknown,Black,28,Male,New York,NY,40.63548411,-73.89155934,Closed by arrest,11236
+NY-000370,20170215,Unknown,Unknown,Black,58,Male,New York,NY,40.65267399,-73.89673543,Open/No arrest,11236
+NY-000317,20161207,Unknown,Unknown,Black,21,Male,New York,NY,40.63868911,-73.91681215,Open/No arrest,11236
+NY-000490,20170713,Unknown,Unknown,Black,22,Male,New York,NY,40.65166137,-73.91737259,Closed by arrest,11236
+NY-000450,20170603,Unknown,Unknown,Black,26,Male,New York,NY,40.6483087,-73.89553856,Closed by arrest,11236
+NY-000239,20160904,Unknown,Unknown,Black,27,Male,New York,NY,40.64036611,-73.89052088,Open/No arrest,11236
+NY-000057,20160314,Unknown,Unknown,Black,23,Male,New York,NY,40.63176631,-73.88729971,Open/No arrest,11236
+NY-000497,20170717,Unknown,Unknown,Hispanic,19,Male,New York,NY,40.64458962,-73.89267243,Open/No arrest,11236
+NY-000415,20170416,Unknown,Unknown,Black,23,Male,New York,NY,40.63479812,-73.91838068,Open/No arrest,11236
+NY-000426,20170505,Unknown,Unknown,Hispanic,57,Male,New York,NY,40.69847382,-73.91776898,Open/No arrest,11237
+NY-000393,20170319,Unknown,Unknown,Black,22,Male,New York,NY,40.70878377,-73.92260037,Closed by arrest,11237
+NY-000091,20160426,Unknown,Unknown,Hispanic,39,Male,New York,NY,40.69983727,-73.91308974,Closed by arrest,11237
+NY-000171,20160710,Unknown,Unknown,Black,25,Male,New York,NY,40.68053616,-73.95708637,Open/No arrest,11238
+NY-000444,20170528,Unknown,Unknown,Hispanic,62,Male,New York,NY,40.67608838,-73.96131087,Open/No arrest,11238
+NY-000050,20160310,Unknown,Unknown,Black,22,Male,New York,NY,40.67165722,-73.95819879,Open/No arrest,11238
+NY-000427,20170505,Unknown,Unknown,Black,47,Male,New York,NY,40.68904826,-73.95861698,Open/No arrest,11238
+NY-000329,20161221,Unknown,Unknown,Black,46,Male,New York,NY,40.67802974,-73.96380819,Open/No arrest,11238
+NY-000535,20170916,Unknown,Unknown,Black,20,Male,New York,NY,40.67198359,-73.95749923,Open/No arrest,11238
+NY-000596,20171121,Unknown,Unknown,Black,38,Male,New York,NY,40.64436638,-73.87799234,Closed by arrest,11239
+NY-000132,20160604,Unknown,Unknown,Hispanic,25,Male,New York,NY,40.70890901,-73.9658041,Closed by arrest,11249
+NY-000244,20160906,Unknown,Unknown,Hispanic,22,Male,New York,NY,40.71984033,-73.9624002,Closed by arrest,11249
+NY-000532,20170906,Unknown,Unknown,Black,67,Male,New York,NY,40.70396487,-73.96315213,Open/No arrest,11249
+NY-000406,20170410,Unknown,Unknown,Hispanic,53,Male,New York,NY,40.70713064,-73.96661294,Closed by arrest,11249
+NY-000193,20160727,Unknown,Unknown,Black,50,Male,New York,NY,40.7644631,-73.83177438,Open/No arrest,11354
+NY-000187,20160722,Unknown,Unknown,Asian,68,Male,New York,NY,40.75029498,-73.82280525,Open/No arrest,11355
+NY-000144,20160615,Unknown,Unknown,Hispanic,22,Male,New York,NY,40.78600692,-73.84573831,Open/No arrest,11356
+NY-000445,20170530,Unknown,Unknown,Hispanic,39,Male,New York,NY,40.76162748,-73.80381644,Closed by arrest,11358
+NY-000026,20160205,Unknown,Unknown,White,57,Male,New York,NY,40.75033154,-73.79213068,Closed by arrest,11358
+NY-000438,20170521,Unknown,Unknown,Hispanic,16,Male,New York,NY,40.76015719,-73.76742396,Open/No arrest,11361
+NY-000118,20160520,Unknown,Unknown,Black,16,Male,New York,NY,40.76105906,-73.72804178,Closed by arrest,11362
+NY-000197,20160801,Unknown,Unknown,Asian,61,Female,New York,NY,40.73698445,-73.80999813,Closed by arrest,11365
+NY-000141,20160612,Unknown,Unknown,Hispanic,25,Male,New York,NY,40.74543555,-73.86435321,Closed by arrest,11368
+NY-000557,20171012,Unknown,Unknown,Black,24,Male,New York,NY,40.75994666,-73.87367279,Open/No arrest,11369
+NY-000594,20171118,Unknown,Unknown,Hispanic,22,Male,New York,NY,40.74687444,-73.8771586,Open/No arrest,11373
+NY-000514,20170812,Unknown,Unknown,Hispanic,24,Male,New York,NY,40.7383777,-73.8861559,Closed by arrest,11373
+NY-000339,20170103,Unknown,Unknown,Asian,1,Female,New York,NY,40.74467188,-73.87855208,Closed by arrest,11373
+NY-000609,20171212,Unknown,Unknown,Hispanic,25,Male,New York,NY,40.74258978,-73.88502999,Open/No arrest,11373
+NY-000304,20161124,Unknown,Unknown,Hispanic,23,Male,New York,NY,40.74341744,-73.87846775,Closed by arrest,11373
+NY-000364,20170204,Unknown,Unknown,Black,28,Male,New York,NY,40.74348126,-73.87400354,Closed by arrest,11373
+NY-000262,20160927,Unknown,Unknown,White,58,Female,New York,NY,40.73287623,-73.86033394,Closed by arrest,11374
+NY-000074,20160409,Unknown,Unknown,Hispanic,31,Male,New York,NY,40.73909585,-73.8967747,Open/No arrest,11377
+NY-000044,20160305,Unknown,Unknown,Hispanic,34,Male,New York,NY,40.7452226,-73.91045017,Closed by arrest,11377
+NY-000347,20170117,Unknown,Unknown,White,86,Female,New York,NY,40.70651469,-73.89284324,Closed by arrest,11385
+NY-000528,20170903,Unknown,Unknown,Hispanic,56,Male,New York,NY,40.69525735,-73.90086349,Closed by arrest,11385
+NY-000264,20160928,Unknown,Unknown,White,25,Female,New York,NY,40.70822786,-73.91286239,Closed by arrest,11385
+NY-000082,20160416,Unknown,Unknown,Black,32,Male,New York,NY,40.7034999,-73.76749539,Closed by arrest,11412
+NY-000045,20160306,Unknown,Unknown,Black,24,Male,New York,NY,40.6996936,-73.76648804,Open/No arrest,11412
+NY-000052,20160311,Unknown,Unknown,Black,33,Male,New York,NY,40.6928309,-73.75814957,Open/No arrest,11412
+NY-000517,20170815,Unknown,Unknown,Black,21,Female,New York,NY,40.69954657,-73.75646625,Open/No arrest,11412
+NY-000607,20171210,Unknown,Unknown,Black,29,Male,New York,NY,40.70135376,-73.76627665,Closed by arrest,11412
+NY-000585,20171103,Unknown,Unknown,Black,23,Male,New York,NY,40.67152162,-73.76004373,Open/No arrest,11413
+NY-000430,20170514,Unknown,Unknown,Black,38,Male,New York,NY,40.66416706,-73.75168244,Open/No arrest,11413
+NY-000114,20160519,Unknown,Unknown,Black,24,Male,New York,NY,40.68406963,-73.75818135,Closed by arrest,11413
+NY-000507,20170728,Unknown,Unknown,Black,73,Male,New York,NY,40.66341474,-73.75670269,Open/No arrest,11413
+NY-000506,20170725,Unknown,Unknown,Black,35,Male,New York,NY,40.6654837,-73.74750702,Closed by arrest,11413
+NY-000200,20160802,Unknown,Unknown,White,30,Female,New York,NY,40.65381516,-73.85320504,Closed by arrest,11414
+NY-000301,20161122,Unknown,Unknown,White,30,Male,New York,NY,40.66852933,-73.84849729,Closed by arrest,11414
+NY-000435,20170518,Unknown,Unknown,Hispanic,23,Male,New York,NY,40.68602026,-73.85366418,Open/No arrest,11416
+NY-000564,20171023,Unknown,Unknown,Asian,64,Male,New York,NY,40.68515247,-73.84291763,Closed by arrest,11416
+NY-000008,20160111,Unknown,Unknown,Hispanic,50,Male,New York,NY,40.6764873,-73.83706518,Closed by arrest,11417
+NY-000214,20160813,Unknown,Unknown,Asian,64,Male,New York,NY,40.67941151,-73.85859277,Closed by arrest,11417
+NY-000215,20160813,Unknown,Unknown,Asian,55,Male,New York,NY,40.67941151,-73.85859277,Closed by arrest,11417
+NY-000545,20170929,Unknown,Unknown,Black,49,Female,New York,NY,40.67881082,-73.83422573,Closed by arrest,11417
+NY-000492,20170713,Unknown,Unknown,White,55,Male,New York,NY,40.67638647,-73.84352592,Closed by arrest,11417
+NY-000280,20161013,Unknown,Unknown,Hispanic,22,Male,New York,NY,40.69341567,-73.84806931,Open/No arrest,11418
+NY-000351,20170124,Unknown,Unknown,Hispanic,24,Male,New York,NY,40.69843969,-73.83112954,Open/No arrest,11418
+NY-000604,20171203,Unknown,Unknown,Asian,23,Male,New York,NY,40.68889153,-73.81734689,Closed by arrest,11419
+NY-000467,20170626,Unknown,Unknown,Asian,26,Male,New York,NY,40.69272234,-73.82927608,Closed by arrest,11419
+NY-000316,20161205,Unknown,Unknown,Asian,46,Female,New York,NY,40.68914133,-73.82085472,Closed by arrest,11419
+NY-000618,20171219,Unknown,Unknown,Black,20,Male,New York,NY,40.69382587,-73.82211149,Closed by arrest,11419
+NY-000455,20170615,Unknown,Unknown,Black,3,Male,New York,NY,40.68952438,-73.83663668,Closed by arrest,11419
+NY-000218,20160814,Unknown,Unknown,White,37,Male,New York,NY,40.68981907,-73.83161293,Closed by arrest,11419
+NY-000223,20160819,Unknown,Unknown,Asian,9,Female,New York,NY,40.68956781,-73.83247898,Closed by arrest,11419
+NY-000338,20170102,Unknown,Unknown,Black,31,Male,New York,NY,40.68667182,-73.81959934,Closed by arrest,11419
+NY-000520,20170819,Unknown,Unknown,Asian,42,Male,New York,NY,40.69101484,-73.81152463,Open/No arrest,11419
+NY-000174,20160715,Unknown,Unknown,Asian,23,Male,New York,NY,40.68214041,-73.82689109,Open/No arrest,11419
+NY-000312,20161130,Unknown,Unknown,Hispanic,21,Male,New York,NY,40.69119702,-73.83546064,Closed by arrest,11419
+NY-000321,20161211,Unknown,Unknown,Black,21,Male,New York,NY,40.66975811,-73.80265194,Closed by arrest,11420
+NY-000063,20160319,Unknown,Unknown,Black,26,Male,New York,NY,40.67356765,-73.80738489,Open/No arrest,11420
+NY-000371,20170215,Unknown,Unknown,Black,22,Male,New York,NY,40.67843955,-73.80407918,Open/No arrest,11420
+NY-000001,20160101,Unknown,Unknown,Hispanic,19,Female,New York,NY,40.68714051,-73.85614609,Closed by arrest,11421
+NY-000247,20160910,Unknown,Unknown,Black,44,Male,New York,NY,40.72652938,-73.73486454,Open/No arrest,11428
+NY-000614,20171216,Unknown,Unknown,Black,39,Male,New York,NY,40.70978991,-73.75125639,Open/No arrest,11429
+NY-000231,20160831,Unknown,Unknown,Asian,60,Female,New York,NY,40.71073972,-73.80387243,Closed by arrest,11432
+NY-000473,20170702,Unknown,Unknown,Hispanic,32,Male,New York,NY,40.70747677,-73.78869351,Open/No arrest,11432
+NY-000477,20170705,Unknown,Unknown,Black,28,Female,New York,NY,40.69932895,-73.78648696,Closed by arrest,11433
+NY-000454,20170609,Unknown,Unknown,Black,30,Male,New York,NY,40.69678044,-73.77850358,Open/No arrest,11433
+NY-000376,20170221,Unknown,Unknown,Black,69,Female,New York,NY,40.69320697,-73.79959308,Closed by arrest,11433
+NY-000191,20160725,Unknown,Unknown,Asian,23,Male,New York,NY,40.69238971,-73.79376455,Open/No arrest,11433
+NY-000518,20170818,Unknown,Unknown,Black,21,Male,New York,NY,40.69916625,-73.79207021,Closed by arrest,11433
+NY-000256,20160924,Unknown,Unknown,Black,46,Male,New York,NY,40.69370267,-73.78091548,Open/No arrest,11433
+NY-000100,20160506,Unknown,Unknown,Black,28,Male,New York,NY,40.69697988,-73.79274059,Closed by arrest,11433
+NY-000287,20161030,Unknown,Unknown,Black,36,Male,New York,NY,40.69723339,-73.78431906,Closed by arrest,11433
+NY-000478,20170705,Unknown,Unknown,Black,28,Male,New York,NY,40.69932895,-73.78648696,Closed by arrest,11433
+NY-000246,20160910,Unknown,Unknown,Black,23,Male,New York,NY,40.67530954,-73.78805277,Open/No arrest,11434
+NY-000390,20170316,Unknown,Unknown,Hispanic,50,Male,New York,NY,40.67216369,-73.76660966,Closed by arrest,11434
+NY-000399,20170329,Unknown,Unknown,Black,23,Male,New York,NY,40.68184032,-73.76588354,Open/No arrest,11434
+NY-000180,20160718,Unknown,Unknown,Black,33,Male,New York,NY,40.67278984,-73.77365162,Open/No arrest,11434
+NY-000286,20161029,Unknown,Unknown,Black,44,Female,New York,NY,40.6784693,-73.7824473,Closed by arrest,11434
+NY-000423,20170501,Unknown,Unknown,Hispanic,45,Male,New York,NY,40.65866979,-73.7677093,Open/No arrest,11434
+NY-000167,20160704,Unknown,Unknown,Black,50,Male,New York,NY,40.68280766,-73.76781631,Open/No arrest,11434
+NY-000587,20171104,Unknown,Unknown,Black,38,Male,New York,NY,40.66110556,-73.76691507,Open/No arrest,11434
+NY-000349,20170122,Unknown,Unknown,Hispanic,6,Male,New York,NY,40.689828,-73.80109248,Closed by arrest,11435
+NY-000157,20160626,Unknown,Unknown,White,65,Male,New York,NY,40.7091865,-73.81915607,Closed by arrest,11435
+NY-000236,20160903,Unknown,Unknown,Hispanic,20,Male,New York,NY,40.70284629,-73.8124289,Closed by arrest,11435
+NY-000593,20171113,Unknown,Unknown,Black,39,Male,New York,NY,40.68224303,-73.79419614,Closed by arrest,11436
+NY-000442,20170527,Unknown,Unknown,Black,28,Male,New York,NY,40.6760436,-73.80102544,Closed by arrest,11436
+NY-000536,20170917,Unknown,Unknown,Hispanic,34,Female,New York,NY,40.66784825,-73.79203447,Closed by arrest,11436
+NY-000379,20170226,Unknown,Unknown,Black,51,Male,New York,NY,40.59621398,-73.7647002,Closed by arrest,11691
+NY-000493,20170714,Unknown,Unknown,Black,28,Male,New York,NY,40.6100355,-73.75358735,Closed by arrest,11691
+NY-000120,20160526,Unknown,Unknown,Hispanic,57,Male,New York,NY,40.60516342,-73.7548478,Closed by arrest,11691
+NY-000417,20170422,Unknown,Unknown,Black,37,Male,New York,NY,40.59814806,-73.76689718,Open/No arrest,11691
+NY-000021,20160127,Unknown,Unknown,Black,36,Female,New York,NY,40.59621398,-73.7647002,Closed by arrest,11691
+NY-000459,20170618,Unknown,Unknown,Black,47,Male,New York,NY,40.58996484,-73.80957751,Closed by arrest,11693
