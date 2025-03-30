@@ -2,7 +2,7 @@ import pandas as pd
 import geocoder
 from tqdm import tqdm
 
-API_KEY = 'AIzaSyAvEOMO5KKtmRKU9cv6N1pTtYdxrTPVLYU'
+API_KEY = 'Add_Geocode_API_key'
 
 # 2️⃣ Function to fetch ZIP using Google Maps API
 def get_zip_google(lat, lon):
