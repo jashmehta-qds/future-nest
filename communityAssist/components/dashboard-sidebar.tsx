@@ -1,7 +1,9 @@
 "use client";
 
+import { Button } from "@/components/ui/button";
+import { WeatherStatsModal } from "@/components/weather-stats-modal";
 import { motion } from "framer-motion";
-import { AlertTriangle, Droplets, Flame, Home, MapPin, Shield, Thermometer, Wind } from 'lucide-react';
+import { AlertTriangle, BarChart, Droplets, Flame, Home, MapPin, Shield, Thermometer, Wind } from 'lucide-react';
 import { useState } from "react";
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
@@ -20,6 +22,7 @@ interface DashboardSidebarProps {
 }
 
 export function DashboardSidebar({ currentWeather = "sunny" }: DashboardSidebarProps) {
+  const [zipcode, setZipcode] = useState("10037"); // Default to NYC zipcode
   const [dashboardData, setDashboardData] = useState({
     avgPropertyValue: 450000,
     avgInsurance: 1200,
@@ -43,6 +46,39 @@ export function DashboardSidebar({ currentWeather = "sunny" }: DashboardSidebarP
     },
     nearbyAmenities: [{ name: "Trader Joe's" }, { name: "Whole Foods" }, { name: "Orange Theory" }, { name: "Macy's" }],
   });
+
+  const [isStatsModalOpen, setIsStatsModalOpen] = useState(false);
+  const [weatherStats, setWeatherStats] = useState(null);
+  const [isLoading, setIsLoading] = useState(false);
+
+  const fetchWeatherStats = async () => {
+    try {
+      setIsLoading(true);
+      const response = await fetch(`/api/weather/${zipcode}`);
+      const data = await response.json();
+      
+      if (!response.ok) {
+        throw new Error(data.error || 'Failed to fetch weather data');
+      }
+
+      if (data.error) {
+        throw new Error(data.error);
+      }
+
+      // Check if data is an array and has at least one item
+      if (!Array.isArray(data) || data.length === 0) {
+        throw new Error('No weather data available');
+      }
+
+      setWeatherStats(data[0]);
+      setIsStatsModalOpen(true);
+    } catch (error) {
+      console.error('Failed to fetch weather stats:', error);
+      // You might want to show this error to the user through a toast notification
+    } finally {
+      setIsLoading(false);
+    }
+  };
 
   const cardVariants = {
     hidden: { opacity: 0, y: 20 },
@@ -75,7 +111,7 @@ export function DashboardSidebar({ currentWeather = "sunny" }: DashboardSidebarP
                 transition={{ type: "spring", stiffness: 300 }}
               >
                 <Card className="overflow-hidden backdrop-blur-md bg-white/30 border border-white/20 shadow-lg hover:shadow-xl transition-all duration-300">
-                  <CardHeader className="p-3">
+                  <CardHeader className="p-3 flex flex-row items-center justify-between">
                     <CardTitle className="text-sm flex items-center gap-2 text-black">
                       <motion.div
                         animate={{ rotate: [0, 360] }}
@@ -85,47 +121,73 @@ export function DashboardSidebar({ currentWeather = "sunny" }: DashboardSidebarP
                       </motion.div>
                       Current Weather
                     </CardTitle>
+                    <motion.div
+                      initial={{ opacity: 0, scale: 0.5 }}
+                      animate={{ opacity: 1, scale: 1 }}
+                      transition={{ delay: 0.5 }}
+                    >
+                      <Button
+                        size="sm"
+                        variant="ghost"
+                        className="bg-white/20 hover:bg-white/30 backdrop-blur-sm"
+                        onClick={fetchWeatherStats}
+                        disabled={isLoading}
+                      >
+                        {isLoading ? (
+                          <motion.div 
+                            animate={{ rotate: 360 }} 
+                            transition={{ duration: 1, repeat: Infinity, ease: "linear" }}
+                          >
+                            <BarChart className="h-4 w-4" />
+                          </motion.div>
+                        ) : (
+                          <BarChart className="h-4 w-4" />
+                        )}
+                      </Button>
+                    </motion.div>
                   </CardHeader>
                   <CardContent className="p-3 relative h-32">
                     <WeatherAnimation type={currentWeather} className="absolute inset-0" />
-                    <div className="relative z-10 flex items-center justify-between">
-                      <div>
-                        <motion.p 
-                          className="text-3xl font-bold text-black"
-                          initial={{ scale: 0.5, opacity: 0 }}
-                          animate={{ scale: 1, opacity: 1 }}
-                          transition={{ type: "spring", stiffness: 200 }}
-                        >
-                          {dashboardData.temperature}°F
-                        </motion.p>
-                        <motion.p 
-                          className="text-xs text-black/80 capitalize"
-                          initial={{ x: -20, opacity: 0 }}
-                          animate={{ x: 0, opacity: 1 }}
-                          transition={{ delay: 0.2 }}
-                        >
-                          {currentWeather}
-                        </motion.p>
-                      </div>
-                      <div className="text-right">
-                        <motion.div 
-                          className="flex items-center gap-1 text-xs text-black/80"
-                          initial={{ opacity: 0, y: 10 }}
-                          animate={{ opacity: 1, y: 0 }}
-                          transition={{ delay: 0.3 }}
-                        >
-                          <Droplets className="h-3 w-3" />
-                          <span>{dashboardData.humidity}%</span>
-                        </motion.div>
-                        <motion.div 
-                          className="flex items-center gap-1 text-xs text-black/80 mt-1"
-                          initial={{ opacity: 0, y: 10 }}
-                          animate={{ opacity: 1, y: 0 }}
-                          transition={{ delay: 0.4 }}
-                        >
-                          <Wind className="h-3 w-3" />
-                          <span>{dashboardData.windSpeed} mph</span>
-                        </motion.div>
+                    <div className="relative z-10 flex flex-col justify-between h-full">
+                      <div className="flex items-start justify-between">
+                        <div>
+                          <motion.p 
+                            className="text-4xl font-bold text-black"
+                            initial={{ scale: 0.5, opacity: 0 }}
+                            animate={{ scale: 1, opacity: 1 }}
+                            transition={{ type: "spring", stiffness: 200 }}
+                          >
+                            {dashboardData.temperature}°F
+                          </motion.p>
+                          <motion.p 
+                            className="text-sm text-black/80 capitalize mt-1"
+                            initial={{ x: -20, opacity: 0 }}
+                            animate={{ x: 0, opacity: 1 }}
+                            transition={{ delay: 0.2 }}
+                          >
+                            {currentWeather}
+                          </motion.p>
+                        </div>
+                        <div className="flex flex-col gap-2">
+                          <motion.div 
+                            className="flex items-center gap-2 text-sm text-black/80"
+                            initial={{ opacity: 0, y: 10 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ delay: 0.3 }}
+                          >
+                            <Droplets className="h-4 w-4" />
+                            <span>{dashboardData.humidity}%</span>
+                          </motion.div>
+                          <motion.div 
+                            className="flex items-center gap-2 text-sm text-black/80"
+                            initial={{ opacity: 0, y: 10 }}
+                            animate={{ opacity: 1, y: 0 }}
+                            transition={{ delay: 0.4 }}
+                          >
+                            <Wind className="h-4 w-4" />
+                            <span>{dashboardData.windSpeed} mph</span>
+                          </motion.div>
+                        </div>
                       </div>
                     </div>
                   </CardContent>
@@ -412,6 +474,11 @@ export function DashboardSidebar({ currentWeather = "sunny" }: DashboardSidebarP
           </SidebarGroupContent>
         </SidebarGroup>
       </SidebarContent>
+      <WeatherStatsModal
+        isOpen={isStatsModalOpen}
+        onClose={() => setIsStatsModalOpen(false)}
+        data={weatherStats}
+      />
     </Sidebar>
   );
 }

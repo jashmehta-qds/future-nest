@@ -49,7 +49,7 @@ export function LandingPage({ userLocation, setUserLocation, handlePinCodeSubmit
   }
 
   if (!isLoaded) {
-    return <div>Loading...</div>
+    return <div></div>
   }
 
   return (

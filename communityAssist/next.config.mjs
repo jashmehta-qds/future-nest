@@ -47,12 +47,4 @@ function mergeConfig(nextConfig, userConfig) {
 
 export default {
   ...nextConfig,
-  async rewrites() {
-    return [
-      {
-        source: '/api/:path*',
-        destination: 'http://localhost:3001/api/:path*', // Replace with your backend URL
-      },
-    ];
-  },
 };
