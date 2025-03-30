@@ -1,11 +1,12 @@
 "use client";
 
-import React, { useState } from "react";
-import { Send } from "lucide-react";
-import { Card, CardContent, CardHeader, CardTitle, CardDescription } from "@/components/ui/card";
-import { ScrollArea } from "@/components/ui/scroll-area";
 import { Button } from "@/components/ui/button";
+import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
 import { Input } from "@/components/ui/input";
+import { ScrollArea } from "@/components/ui/scroll-area";
+import { AnimatePresence, motion } from "framer-motion";
+import { Bot, Send, User } from "lucide-react";
+import { useEffect, useRef, useState } from "react";
 
 interface ChatMessage {
   id: string;
@@ -23,6 +24,17 @@ export function MainContent() {
       timestamp: new Date(),
     },
   ]);
+  const scrollAreaRef = useRef<HTMLDivElement>(null)
+
+  useEffect(() => {
+    // Scroll to bottom when messages change
+    if (scrollAreaRef.current) {
+      const scrollElement = scrollAreaRef.current.querySelector("[data-radix-scroll-area-viewport]")
+      if (scrollElement) {
+        scrollElement.scrollTop = scrollElement.scrollHeight
+      }
+    }
+  }, [messages])
   const [inputValue, setInputValue] = useState("");
   const [isLoading, setIsLoading] = useState(false);
 
@@ -81,50 +93,69 @@ export function MainContent() {
   };
 
   return (
-    <div className="flex-1 h-full overflow-auto border-r">
-      <Card className="flex flex-col h-full border-0 rounded-none">
-        <CardHeader className="border-b">
-          <CardTitle>Chat Support</CardTitle>
-          <CardDescription>Ask questions about your pincode</CardDescription>
+    <div className="flex-1 h-full overflow-hidden border-r">
+      <Card className="flex flex-col h-full border-0 rounded-none backdrop-blur-md bg-white/20">
+        <CardHeader className="border-b backdrop-blur-md bg-white/30">
+          <div className="flex items-center gap-2">
+            <motion.div
+              animate={{ rotate: [0, 10, -10, 0] }}
+              transition={{ duration: 5, repeat: Number.POSITIVE_INFINITY }}
+            >
+              <Bot className="h-5 w-5 text-primary" />
+            </motion.div>
+            <CardTitle>Weather Assistant</CardTitle>
+          </div>
+          <CardDescription>Ask questions about weather, property, and climate risks</CardDescription>
         </CardHeader>
         <CardContent className="flex-1 p-0 flex flex-col">
-          <ScrollArea className="flex-1 p-4">
+          <ScrollArea className="flex-1 p-4" ref={scrollAreaRef}>
             <div className="space-y-4">
-              {messages.map((message) => (
-                <div
-                  key={message.id}
-                  className={`flex ${
-                    message.sender === "user" ? "justify-end" : "justify-start"
-                  }`}
-                >
-                  <div
-                    className={`max-w-[80%] rounded-lg px-4 py-2 ${
-                      message.sender === "user"
-                        ? "bg-primary text-primary-foreground"
-                        : "bg-muted"
-                    }`}
+              <AnimatePresence>
+                {messages.map((message) => (
+                  <motion.div
+                    key={message.id}
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    exit={{ opacity: 0 }}
+                    transition={{ duration: 0.3 }}
+                    className={`flex ${message.sender === "user" ? "justify-end" : "justify-start"}`}
                   >
-                    {message.content}
-                  </div>
-                </div>
-              ))}
+                    <div
+                      className={`max-w-[80%] rounded-lg px-4 py-2 flex items-start gap-2 ${
+                        message.sender === "user"
+                          ? "bg-primary/80 text-primary-foreground backdrop-blur-sm"
+                          : "bg-white/30 backdrop-blur-sm border border-white/20"
+                      }`}
+                    >
+                      {message.sender === "system" && <Bot className="h-4 w-4 mt-1 flex-shrink-0" />}
+                      <div>
+                        {message.content}
+                        <div className="text-xs opacity-70 mt-1">
+                          {message.timestamp.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" })}
+                        </div>
+                      </div>
+                      {message.sender === "user" && <User className="h-4 w-4 mt-1 flex-shrink-0" />}
+                    </div>
+                  </motion.div>
+                ))}
+              </AnimatePresence>
             </div>
           </ScrollArea>
-          <div className="p-4 border-t">
+          <div className="p-4 border-t backdrop-blur-md bg-white/30">
             <form
               onSubmit={(e) => {
-                e.preventDefault();
-                handleSendMessage();
+                e.preventDefault()
+                handleSendMessage()
               }}
               className="flex gap-2"
             >
               <Input
                 value={inputValue}
                 onChange={(e) => setInputValue(e.target.value)}
-                placeholder="Start typing..."
-                className="flex-1"
+                placeholder="Ask about weather, property values, or climate risks..."
+                className="flex-1 bg-white/50 border-white/30 focus-visible:ring-primary/50"
               />
-              <Button type="submit" size="icon" disabled={isLoading}>
+              <Button type="submit" size="icon" disabled={isLoading} className="bg-primary/80 hover:bg-primary">
                 {isLoading ? (
                   <div className="animate-spin h-4 w-4 border-2 border-t-transparent rounded-full"></div>
                 ) : (
