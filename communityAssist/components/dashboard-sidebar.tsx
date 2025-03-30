@@ -1,4 +1,4 @@
-// dashboard sidebar
+// dashboard sidebar left side
 "use client";
 
 import React, { useState } from "react";
@@ -9,6 +9,9 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 export function DashboardSidebar() {
   const [userLocation, setUserLocation] = useState<string>(""); // State for user input location
+  const [isLoading, setIsLoading] = useState(false);
+  const [newsFeed, setNewsFeed] = useState<{ title: string; url: string; date: string }[]>([]);
+
   const [dashboardData, setDashboardData] = useState({
     avgPropertyValue: 0.0,
     avgInsurance: 0.0,
@@ -29,57 +32,16 @@ export function DashboardSidebar() {
     climateRiskAnalysis: "",
   });
 
- // Fetch AI-generated data
- const fetchDashboardData = async (location: string) => {
-  try {
-    // Replace this with your actual AI API endpoint
-    const response = await fetch(`/api/getDashboardData?location=${encodeURIComponent(location)}`);
-    const data = await response.json();
-
-    // Update the dashboard data with the AI-generated values
-    setDashboardData({
-      avgPropertyValue: data.avgPropertyValue,
-      avgInsurance: data.avgInsurance,
-      crimeRate: data.crimeRate,
-      climateRisk: data.climateRisk,
-      nearbyAmenities: data.nearbyAmenities,
-      newsFeed: data.newsFeed,
-      housingInsurance: data.housingInsurance,
-      climateRiskAnalysis: data.climateRiskAnalysis,
-    });
-  } catch (error) {
-    console.error("Error fetching dashboard data:", error);
-  }
-};
 
 
   
 
-  // Handle user input and fetch data
-  const handleLocationChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const location = e.target.value;
-    setUserLocation(location);
-   // Fetch data only if the location is new
-   if (location){
-    fetchDashboardData(location); // Fetch new data based on location
-  }
-};
+
 
   return (
     <Sidebar>
       <SidebarHeader className="flex items-center justify-between">
-        <h2 className="text-lg font-semibold">Community Assist</h2>
         <SidebarTrigger />
-        {/* Input for Location Pin Code */}
-        <div className="mt-2 w-full">
-          <input
-            type="text"
-            placeholder="Enter Pin Code"
-            value={userLocation}
-            onChange={handleLocationChange}
-            className="w-full p-2 border rounded"
-          />
-        </div>
       </SidebarHeader>
       <SidebarContent>
         <div className="grid grid-cols-1 gap-4 p-2">
